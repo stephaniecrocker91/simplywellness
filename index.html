@@ -89,8 +89,31 @@
             <p>Our corporate nutrition workshops will help guide your employees towards the healthiest food choices to boost brain power, improve mood and keep sick days at bay</p>
         </div>
     </section>
+    <!--Contact Form-->
+    <h2>Contact us</h2>
     <section id="contact-section">
-        Contact form
+       <form method="POST" action="https://formdump.codeinstitute.net/">
+        <label for fname>First Name</label>   
+        <input type="text" id="fname" name="firstname" required>
+        <label for lname>Surname</label>   
+        <input type="text" id="lname" name="surname" required>
+        <label for email>Email</label>   
+        <input type="email" id="email" name="email" required>
+        <label for cnumber>Contact Number</label>   
+        <input type="text" id="cnumber" name="contactnumber" required>
+        <br>
+        <label for meditation>Mindfulness & Meditation</label>   
+        <input type="checkbox" id="meditation" name="service_interested" value="MindfulnessMeditation">
+        <label for yoga>Yoga</label>   
+        <input type="checkbox" id="yoga" name="service_interested" value="Yoga">
+        <label for pilates>Pilates</label>   
+        <input type="checkbox" id="pilates" name="service_interested" value="Pilates">
+        <label for hiit>HIIT</label>   
+        <input type="checkbox" id="hiit" name="service_interested" value="Hiit">
+        <label for nutrition>Nutrition</label>   
+        <input type="checkbox" id="nutrition" name="service_interested" value="Nutrition">
+        <input type="submit" value="Send!">
+       </form>
     </section>
     <footer>Link to social media links</footer>
 </body>

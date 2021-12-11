@@ -10,7 +10,8 @@ It advertises an array of services (classes and workshop packages) available for
   <li>Insightful: why are these services benefitial to my employees?</li>
  </uL>
 
-
+<h2>Navigation Bar</h2>
+<p> The navigation bar is ALWAYS at the top of the bar, it is clear about which section it will direct you to and what information you will find.</p>
 
 
  <h2>Credits</h2>

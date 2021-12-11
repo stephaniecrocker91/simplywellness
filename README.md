@@ -17,4 +17,5 @@ It advertises an array of services (classes and workshop packages) available for
     <ul>
         <li>NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/ </li>
         <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6</li>
-    </ul>
+        <li>Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268</li>
+</ul>

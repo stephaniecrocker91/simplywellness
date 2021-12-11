@@ -25,4 +25,6 @@ It advertises an array of services (classes and workshop packages) available for
         <li>NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/ </li>
         <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6</li>
         <li>Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268</li>
+        <li>Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.</li>
+        <li>Font awesome: https://fontawesome.com/ (Used for social media anchor links)</li>
 </ul>

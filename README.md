@@ -9,12 +9,16 @@ It advertises an array of services (classes and workshop packages) available for
   <li>Clear as to what services are provided and how.</li>
   <li>Insightful: why are these services benefitial to my employees?</li>
  </uL>
+ <br>
 
 <h2>Navigation Bar</h2>
-<p> The navigation bar is ALWAYS at the top of the bar, it is clear about which section it will direct you to and what information you will find.</p>
+<p> The navigation bar is <u>ALWAYS</u> at the top of the bar, it is clear about which section it will direct you to and what information you will find.</p>
+<br>
 
 <h2>Contact Form</h2>
-<p>The aim of this contact form, is to find out what servicers the User is interested in through the use of te checkbox (where one or more options are allowed to be checked). All fields are required to be filled out to be able to submit the form. </p>
+<p>The aim of this contact form, is to find out what servicers the User is interested in through the use of te checkbox (where one or more options are allowed to be checked). All input fields (except for the checkbox) are required to be filled out to be able to submit the form. </p>
+<p>The contact form is simple, easy to read, and enphasizes the services available for the user.</p>
+<br>
 
  <h2>Credits</h2>
     <ul>

@@ -3,6 +3,7 @@
 body {
     font-family: "Cormorant Infant";
     font-weight: 300px;
+    font-size: 80%;
 }
 /* Header & Navigation Bar */
 
@@ -10,7 +11,7 @@ header{
     text-align: center;
     margin: 0;
     background-color: #f6ead4;
-    padding: 10%;
+    padding: 1%;
     color: #2b2a32;
 }
 
@@ -25,6 +26,17 @@ header a {
 header li {
     list-style-type: none;
     display: inline-block;
-    margin: 15px;
+    margin: 3%;
     text-align: center;
+}
+/* workplace wellbeing section */
+
+#workplace-wellbeing {
+    padding: 20%;
+    background: url("../images/hero-image.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px;
+    width: 300px;
+    height: 200px;
+    margin: 0, auto;
 }

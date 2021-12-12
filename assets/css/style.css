@@ -1,3 +1,6 @@
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;1,300&family=Julius+Sans+One&display=swap');
+
+body {
+    font-family: "Cormorant Infant";
+    font-weight: 300px;
 }

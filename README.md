@@ -28,3 +28,6 @@ It advertises an array of services (classes and workshop packages) available for
         <li>Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.</li>
         <li>Font awesome: https://fontawesome.com/ (Used for social media anchor links)</li>
 </ul>
+
+<h2>Debugging</h2>
+<p>I couldn't get my first style.css stylesheet to link up to my HTML. I tried solving it for a while, and then created another style2.css file. This one seemed to connect, so I deleted the initial one and replaced with the second.</p>

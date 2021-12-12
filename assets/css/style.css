@@ -4,3 +4,24 @@ body {
     font-family: "Cormorant Infant";
     font-weight: 300px;
 }
+/* Header & Navigation Bar */
+
+header{
+    text-align: center;
+    background-color: burlywood;
+}
+
+header h1 {
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+header a {
+    text-decoration: none;
+}
+
+header li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}

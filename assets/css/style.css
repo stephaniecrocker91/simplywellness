@@ -2,9 +2,15 @@
 
 body {
     font-family: "Cormorant Infant";
+    letter-spacing: 1px;
     font-weight: 300px;
     font-size: 80%;
 }
+h2 {
+    text-transform: uppercase;
+}
+
+
 /* Header & Navigation Bar */
 
 header{
@@ -38,11 +44,11 @@ header li {
     background-size: contain;
     background-position: center;
     margin-right: 0;
+    margin-top: 0;
 }
 #website-intro {
     background-color: rgb(192,144,121,0.7);
-    width:300px;
-    height:150px;
     padding-left:0;
     text-align: center;
+    margin-right: 0;
 }

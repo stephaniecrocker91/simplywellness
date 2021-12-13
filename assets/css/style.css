@@ -8,6 +8,7 @@ body {
 }
 h2 {
     text-transform: uppercase;
+    letter-spacing: 4px;
 }
 
 
@@ -21,7 +22,6 @@ header{
 }
 
 header h1 {
-    letter-spacing: 4px;
     text-transform: uppercase;
     color: #2b2a32;
 }
@@ -51,4 +51,15 @@ header li {
     padding-left:0;
     text-align: center;
     margin-right: 0;
+}
+
+/* bespoke packages section*/
+.service h3{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: rgb(192,144,121,0.5);
+    text-align: center;
+}
+.service img{
+    max-width: 100%;
 }

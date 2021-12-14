@@ -3,7 +3,6 @@
 /* General rules */
 
 
-
 body {
     font-family: "Cormorant Infant";
     letter-spacing: 1px;
@@ -20,6 +19,25 @@ a {
     color: #2b2a32;
 }
 
+/* Navigation bar and Social media links: UL lists centered horizontally */
+
+.centered-lists {
+    text-align: center;
+    margin: 0, auto;
+}
+
+.centered-lists ul {
+    margin: 0;
+    padding: 0;
+}
+
+.centered-lists li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
 /* Header & Navigation Bar */
 
 
@@ -33,18 +51,6 @@ header{
 h1 {
     text-transform: uppercase;
 }
-
-#nav-bar ul {
-    margin: 0;
-    padding: 0;
-}
-
-#nav-bar li {
-    display: inline-block;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
 
 
 /* workplace wellbeing section */
@@ -86,7 +92,11 @@ h1 {
 
 
 .service img{
-    max-width: 100%;
+    max-width: 230px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
 }
 
 /* Contact section */
@@ -97,23 +107,11 @@ h1 {
 }
 
 
-
 /* Social media links */
-#social-links {
-    text-align: center;
-    margin: 0, auto;
-}
-
-#social-links ul {
-    margin: 0;
-    padding: 0;
-}
 
 #social-links li {
-    display: inline-block;
-    padding-left: 20px;
-    padding-right: 20px;
+    font-size: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
-
-
 

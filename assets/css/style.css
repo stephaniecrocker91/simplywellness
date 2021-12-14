@@ -37,6 +37,11 @@ header a {
 ul {
     text-align: left;
 }
+
+li a{
+    color: #2b2a32;
+}
+
 /* workplace wellbeing section */
 
 #workplace-wellbeing {

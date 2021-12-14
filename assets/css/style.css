@@ -2,6 +2,8 @@
 
 /* General rules */
 
+
+
 body {
     font-family: "Cormorant Infant";
     letter-spacing: 1px;
@@ -28,22 +30,20 @@ header{
     color: #2b2a32;
 }
 
-header h1 {
+h1 {
     text-transform: uppercase;
-    color: #2b2a32;
 }
 
-
-#nav-bar {
-    display: table;
-    margin: 0, auto;
+#nav-bar ul {
+    margin: 0;
+    padding: 0;
 }
 
 #nav-bar li {
-    list-style-type: none;
-    display: inline;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
 }
-
 
 
 

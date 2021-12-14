@@ -4,7 +4,6 @@ body {
     font-family: "Cormorant Infant";
     letter-spacing: 1px;
     font-weight: 300px;
-    font-size: 80%;
 }
 h2 {
     text-transform: uppercase;
@@ -54,6 +53,10 @@ header li {
 }
 
 /* bespoke packages section*/
+.service {
+    margin-top: 50px;
+}
+
 .service h3{
     text-transform: uppercase;
     letter-spacing: 4px;

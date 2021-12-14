@@ -54,6 +54,8 @@ header li {
 }
 
 /* bespoke packages section*/
+
+
 .service {
     margin-top: 50px;
 }
@@ -66,6 +68,9 @@ header li {
 }
 #packages {
     background-color: rgb(192,144,121,0.2);
+    width: 250px;
+    margin: 0 auto;
+
 }
 
 

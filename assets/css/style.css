@@ -84,4 +84,9 @@ li a{
     max-width: 100%;
 }
 
+/* Contact section */
 
+#contact-section {
+    max-width: 420px;
+    
+}

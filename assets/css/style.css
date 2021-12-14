@@ -99,10 +99,21 @@ h1 {
 
 
 /* Social media links */
-footer li {
-    list-style-type: none;
-    display: inline-block;
-    size: 20px;
+#social-links {
+    text-align: center;
+    margin: 0, auto;
 }
+
+#social-links ul {
+    margin: 0;
+    padding: 0;
+}
+
+#social-links li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 
 

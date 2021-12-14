@@ -11,6 +11,9 @@ h2 {
     text-align: center;
 }
 
+li a {
+    color: #2b2a32;
+}
 
 /* Header & Navigation Bar */
 
@@ -32,15 +35,12 @@ header a {
 #nav-bar li {
     list-style-type: none;
     display: inline-block;
-   margin: 10px;
+    margin: 10px;
 }
 ul {
     text-align: left;
 }
 
-li a{
-    color: #2b2a32;
-}
 
 /* workplace wellbeing section */
 
@@ -88,5 +88,13 @@ li a{
 
 #contact-section {
     max-width: 420px;
-    
+
 }
+
+footer li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+

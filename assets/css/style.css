@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;1,300&family=Julius+Sans+One&display=swap');
 
+/* General rules */
+
 body {
     font-family: "Cormorant Infant";
     letter-spacing: 1px;
@@ -11,11 +13,13 @@ h2 {
     text-align: center;
 }
 
-li a {
+a {
+    text-decoration: none;
     color: #2b2a32;
 }
 
 /* Header & Navigation Bar */
+
 
 header{
     text-align: center;
@@ -28,18 +32,19 @@ header h1 {
     text-transform: uppercase;
     color: #2b2a32;
 }
-header a {
-    text-decoration: none;
+
+
+#nav-bar {
+    display: table;
+    margin: 0, auto;
 }
 
 #nav-bar li {
     list-style-type: none;
-    display: inline-block;
-    margin: 10px;
+    display: inline;
 }
-ul {
-    text-align: left;
-}
+
+
 
 
 /* workplace wellbeing section */
@@ -87,14 +92,17 @@ ul {
 /* Contact section */
 
 #contact-section {
-    max-width: 420px;
-
+    max-width: 600px;
+  
 }
 
+
+
+/* Social media links */
 footer li {
     list-style-type: none;
     display: inline-block;
-    margin: 10px;
+    size: 20px;
 }
 
 

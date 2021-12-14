@@ -16,7 +16,7 @@ h2 {
 
 header{
     text-align: center;
-    margin: 0;
+    margin: 0, auto;
     padding: 1%;
     color: #2b2a32;
 }
@@ -29,11 +29,10 @@ header a {
     text-decoration: none;
 }
 
-header li {
+#nav-bar li {
     list-style-type: none;
     display: inline-block;
-    margin: 3%;
-    text-align: center;
+    margin: 10px;
 }
 /* workplace wellbeing section */
 
@@ -48,9 +47,8 @@ header li {
 }
 #website-intro {
     background-color: rgb(192,144,121,0.7);
-    padding-left:0;
     text-align: center;
-    margin-right: 0;
+   
 }
 
 /* bespoke packages section*/

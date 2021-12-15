@@ -110,15 +110,17 @@ h1 {
 }
 .contact-form {
     max-width: 600px;
-    background-color: rgb(192,144,121, 0.8);
+    background-color: whitesmoke;
     padding: 20px;
     position: absolute;
     left: 50%;
+    color:#2b2a32;
 }
 
 .text-box {
     width: 100%;
     background: transparent;
+    border: 1px solid #2b2a32;
 }
 
 .check-box {
@@ -126,10 +128,11 @@ h1 {
 }
 
 #send-button {
-    background-color:#2b2a32;
-    color:silver;
+    background-color: whitesmoke;
+    color: #2b2a32;
     padding: 4px;
     margin-top: 4px;
+    border: 1px solid, #2b2a32;
 }
 
 /* Social media links */

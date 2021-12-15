@@ -120,44 +120,44 @@
     </section>
     <br>
     <!--Contact Form-->
-    <section id="contact-section">
+    <section id="contact-form-section">
         <h2>Contact us</h2>
-        <form method="POST" action="https://formdump.codeinstitute.net/">
-         
-            <label for fname>First Name</label>
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+          <div>
+            <label for fname>First Name:</label>
             <br>
-            <input type="text" id="fname" name="firstname" required>
+            <input type="text" id="fname" name="firstname" required class="text-box">
             <br>         
-            <label for lname>Surname</label>
+            <label for lname>Surname:</label>
             <br>
-            <input type="text" id="lname" name="surname" required>
+            <input type="text" id="lname" name="surname" required class="text-box">
             <br>           
-            <label for email>Email</label>
+            <label for email>Email:</label>
             <br>
-            <input type="email" id="email" name="email" required>
+            <input type="email" id="email" name="email" required class="text-box">
             <br>
-            <label for cnumber>Contact Number</label>
+            <label for cnumber>Contact Number:</label>
             <br>
-            <input type="text" id="cnumber" name="contactnumber" required>
-
-            <br>
-
-            <input type="checkbox" id="meditation" name="service_interested" value="MindfulnessMeditation">
+            <input type="text" id="cnumber" name="contactnumber" required class="text-box">
+        </div>
+        <div>    
+            <input type="checkbox" id="meditation" name="service_interested" value="MindfulnessMeditation" class="check-box">
             <label for meditation>Mindfulness & Meditation</label>
             <br>
-            <input type="checkbox" id="yoga" name="service_interested" value="Yoga">
+            <input type="checkbox" id="yoga" name="service_interested" value="Yoga" class="check-box">
             <label for yoga>Yoga</label>
             <br>
-            <input type="checkbox" id="pilates" name="service_interested" value="Pilates">
+            <input type="checkbox" id="pilates" name="service_interested" value="Pilates" class="check-box">
             <label for pilates>Pilates</label>
             <br>
-            <input type="checkbox" id="hiit" name="service_interested" value="Hiit">
+            <input type="checkbox" id="hiit" name="service_interested" value="Hiit" class="check-box">
             <label for hiit>HIIT</label>
             <br>
-            <input type="checkbox" id="nutrition" name="service_interested" value="Nutrition">
+            <input type="checkbox" id="nutrition" name="service_interested" value="Nutrition" class="check-box">
             <label for nutrition>Nutrition</label>
             <br>
-            <input type="submit" value="Send!">
+        </div>
+            <input type="submit" value="Send!" id="send-button">
         </form>
     </section>
     <br>

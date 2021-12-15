@@ -46,19 +46,17 @@ header{
     text-align: center;
     margin: 0, auto;
     padding: 1%;
-    color: #2b2a32;
 }
 
 h1 {
     text-transform: uppercase;
 }
 
-
 /* workplace wellbeing section */
 
 #workplace-wellbeing {
     padding: 20%;
-    background: url("../images/hero-image.jpg");
+    background: url(../images/hero-image.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -88,9 +86,9 @@ h1 {
     background-color: rgb(192,144,121,0.2);
     width: 250px;
     margin: 0 auto;
+    padding: 5px 15px;
 
 }
-
 
 .service img{
     max-width: 230px;
@@ -102,11 +100,37 @@ h1 {
 
 /* Contact section */
 
-#contact-section {
-    max-width: 600px;
+#contact-form-section {
+    background-image: url(../images/Cammomile-field.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
   
 }
+.contact-form {
+    max-width: 600px;
+    background-color: rgb(192,144,121, 0.8);
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+}
 
+.text-box {
+    width: 100%;
+    background: transparent;
+}
+
+.check-box {
+    background-color: transparent;
+}
+
+#send-button {
+    background-color:#2b2a32;
+    color:silver;
+    padding: 4px;
+    margin-top: 4px;
+}
 
 /* Social media links */
 
@@ -115,4 +139,6 @@ h1 {
     padding-left: 25px;
     padding-right: 25px;
 }
+
+
 

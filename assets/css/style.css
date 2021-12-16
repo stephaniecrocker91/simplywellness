@@ -43,6 +43,7 @@ a {
 
 
 header{
+    background-color: #2b2a32;
     text-align: center;
     margin: 0, auto;
     padding: 1%;
@@ -50,6 +51,11 @@ header{
 
 h1 {
     text-transform: uppercase;
+    color:whitesmoke
+}
+
+header a{
+    color:whitesmoke;
 }
 
 /* workplace wellbeing section */

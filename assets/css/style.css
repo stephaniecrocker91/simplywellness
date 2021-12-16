@@ -107,9 +107,7 @@ h1 {
     background-position: center;
     height: 500px;
 }
-#contact-form-section > h2 {
-    padding-top: 30px;
-}
+
 
 .contact-form {
     max-width: 210px;
@@ -117,8 +115,8 @@ h1 {
     margin-right: auto;
     background-color: whitesmoke;
     padding: 20px;
-    position: relative;
-    
+    position: relative;  
+    top: 82px; 
     color:#2b2a32;
 }
 

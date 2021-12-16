@@ -166,10 +166,13 @@ header a:hover {
 #send-button {
     background-color: whitesmoke;
     color: #2b2a32;
-    padding: 4px;
-    margin-top: 4px;
+    padding: 5px;
+    margin-top: 7px;
     border: 1px solid, #2b2a32;
+    font-family: "Cormorant Infant";
+    font-size: large;
 }
+
 
 /* Social media links */
 
@@ -183,6 +186,10 @@ header a:hover {
 footer a:hover {
     background-color: #2b2a32;
     color:whitesmoke;
+}
+#send-button:hover {
+    background-color: #2b2a32;
+    color: whitesmoke;
 }
 
 

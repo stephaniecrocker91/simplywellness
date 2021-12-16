@@ -30,6 +30,7 @@ a {
     color: #2b2a32;
 }
 
+
 /* Navigation bar and Social media links: UL lists centered horizontally */
 
 .centered-lists {
@@ -69,9 +70,17 @@ header a{
     color:whitesmoke;
 }
 
-/* workplace wellbeing section */
+/* Hover styling for nav links.*/
 
-#workplace-wellbeing {
+header a:hover {
+    color:#2b2a32;
+    background-color: whitesmoke;
+}
+
+
+/* Homepage - Workplace Wellbeing */
+
+#homepage-section {
     padding: 20%;
     background: url(../images/hero-image.jpg);
     background-repeat: no-repeat;
@@ -85,7 +94,7 @@ header a{
    
 }
 
-/* bespoke packages section*/
+/* Our Services Page */
 
 
 .service {
@@ -114,7 +123,7 @@ header a{
     
 }
 
-/* Contact section */
+/* Contact Us Page */
 
 #contact-form-section {
     background-image: url(../images/Cammomile-field.jpg);
@@ -162,5 +171,10 @@ header a{
     padding-right: 25px;
 }
 
+/* Hover styling for social media links.*/
+footer a:hover {
+    background-color: #2b2a32;
+    color:whitesmoke;
+}
 
 

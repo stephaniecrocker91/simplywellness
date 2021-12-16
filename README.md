@@ -12,7 +12,7 @@ It advertises an array of services (classes and workshop packages) available for
  <br>
 
 <h2>Navigation Bar</h2>
-<p> The navigation bar is clearly displayed on each HTML page (Home, Our Services, and Contact Form). It is clear about which section it will direct you to and what information you will find. As you scroll down the navigation bar is <u>ALWAYS</u> at the top of the bar.</p>
+<p> The navigation bar is clearly displayed on each HTML page (Home, Our Services, and Contact Form). It is clear about which section it will direct you to and what information you will find. As you scroll down the navigation bar is <u>ALWAYS</u> at the top of the bar. The CSS styling makes it contrasting to the rest of the page: so as to clearly stand out.</p>
 <br>
 
 <h2>Our Services</h2>
@@ -31,6 +31,7 @@ It advertises an array of services (classes and workshop packages) available for
         <li>Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268</li>
         <li>Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.</li>
         <li>Font awesome: https://fontawesome.com/ (Used for social media anchor links)</li>
+        <li>Used the Love Running Project Contact Form section as inspiration for my contact form. Used snippets of the code to place a background-image and a box over it with the contact section details.</li>
 </ul>
 
 <h2>Debugging</h2>

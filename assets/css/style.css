@@ -8,11 +8,19 @@ body {
     letter-spacing: 1px;
     font-weight: 300px;
     padding: 10px;
+    text-align: center;
 }
 h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+
+p, li, form{
+    text-align: left;
 }
 
 a {
@@ -71,7 +79,6 @@ header a{
 }
 #website-intro {
     background-color: rgb(192,144,121,0.7);
-    text-align: center;
    
 }
 

@@ -157,6 +157,7 @@ header a:hover {
     width: 204px;
     background: transparent;
     border: 1px solid #2b2a32;
+    border-radius: 2px;
 }
 
 .check-box {
@@ -171,6 +172,7 @@ header a:hover {
     border: 1px solid, #2b2a32;
     font-family: "Cormorant Infant";
     font-size: large;
+    border-radius: 2px;
 }
 
 

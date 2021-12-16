@@ -104,6 +104,7 @@ header a:hover {
 /* Our Services Page */
 
 
+
 .service {
     margin-top: 50px;
 }
@@ -114,12 +115,12 @@ header a:hover {
     background-color: rgb(192,144,121,0.5);
     text-align: center;
 }
+
 #packages {
     background-color: rgb(192,144,121,0.2);
     width: 250px;
     margin: 0 auto;
     padding: 5px 15px;
-
 }
 
 .service img{

@@ -105,9 +105,12 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 400px;
-  
+    height: 500px;
 }
+#contact-form-section > h2 {
+    padding-top: 30px;
+}
+
 .contact-form {
     max-width: 210px;
     margin-left: auto;

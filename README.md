@@ -46,3 +46,4 @@ It advertises an array of services (classes and workshop packages) available for
 
 <h2>Debugging</h2>
 <p>I couldn't get my first style.css stylesheet to link up to my HTML. I tried solving it for a while, and then created another style2.css file. This one seemed to connect, so I deleted the initial one and replaced with the second.</p>
+<p>Corrected syntax for labels in contact form. From : "label for pilates" ---> wrong syntax. should be for="pilates" (pilates being the id of the checkbox it applies to). Jo from Student Support flagged this for me.</p>

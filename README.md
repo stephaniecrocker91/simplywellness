@@ -13,6 +13,7 @@ It advertises an array of services (classes and workshop packages) available for
 
 <h2>Navigation Bar</h2>
 <p> The navigation bar is clearly displayed on each HTML page (Home, Our Services, and Contact Form). It is clear about which section it will direct you to and what information you will find. As you scroll down the navigation bar is <u>ALWAYS</u> at the top of the bar. The CSS styling makes it contrasting to the rest of the page: so as to clearly stand out.</p>
+<p>Navigation bar contains aria-labels to make it user friendly and accesible.</p>
 <br>
 
 <h2>Our Services</h2>
@@ -23,6 +24,10 @@ It advertises an array of services (classes and workshop packages) available for
 <p> The contact form section is also set up on another HTML page. The aim of this contact form, is to find out what servicers the User is interested in through the use of te checkbox (where one or more options are allowed to be checked). All input fields (except for the checkbox) are required to be filled out to be able to submit the form. </p>
 <p>The contact form is simple, easy to read, and enphasizes the services available for the user.</p>
 <br>
+
+<h2>Footer</h2>
+<p>The footer is at the bottom of the page, and contains useful information linking the web page to social media pages: Instagram, Facebook and Linkedin. The hyperlinks have font-awesome images clearly displaying each social media type. The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.</p>
+<<p>Footer contains aria-labels on the social media links, to make it user friendly and accesible.</p>
 
  <h2>Credits</h2>
     <ul>

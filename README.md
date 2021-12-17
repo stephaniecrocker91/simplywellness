@@ -32,7 +32,8 @@ It advertises an array of services (classes and workshop packages) available for
  <h2>Credits</h2>
     <ul>
         <li>NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/ </li>
-        <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6</li>
+        <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6 https://www.medicalnewstoday.com/articles/327474#benefits</li>
+        <li>Pilates benefits: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits</li>
         <li>Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268</li>
         <li>Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.</li>
         <li>Font awesome: https://fontawesome.com/ (Used for social media anchor links)</li>
@@ -45,6 +46,7 @@ It advertises an array of services (classes and workshop packages) available for
             <li>https://www.pexels.com/photo/person-touching-white-flowers-4883429/</li>
             <li>https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/</li>
             <li>https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/</li>
+            
         </li>
         <li>How to create a dropdown menu for my nav-bar Our Services: </li>
 </ul>

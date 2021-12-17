@@ -57,9 +57,13 @@ header{
     background-color: #2b2a32;
     position: cover;
     text-align: center;
-    margin: 0, auto;
-    padding: 1%;
     position:fixed;
+    padding: 10px;
+    margin:0;
+    top:0;
+    left:0;
+    right:0;
+    
 }
 
 h1 {

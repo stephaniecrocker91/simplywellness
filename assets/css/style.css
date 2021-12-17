@@ -106,10 +106,9 @@ header a:hover {
 
 /* Our Services Page */
 
-
-
 .service {
     margin-top: 50px;
+    padding-top: 200px;
 }
 
 .service h3{
@@ -187,6 +186,10 @@ header a:hover {
 
 
 /* Social media links */
+
+footer {
+    padding-top: 160px;
+}
 
 #social-links li {
     font-size: 30px;

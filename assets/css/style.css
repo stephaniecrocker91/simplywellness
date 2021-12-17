@@ -9,7 +9,7 @@ body {
     font-weight: 300px;
     padding: 10px;
     text-align: center;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 h1,
@@ -20,7 +20,7 @@ h2 {
 }
 
 h2 {
-    margin-top: 190px;
+    margin-top: 160px;
     margin-bottom: 30px;
 }
 
@@ -115,7 +115,7 @@ header a:hover {
 
 .service {
     margin-top: 50px;
-    padding-top: 200px;
+    padding-top: 160px;
 }
 
 .service h3 {
@@ -129,7 +129,7 @@ header a:hover {
     background-color: rgb(192, 144, 121, 0.2);
     width: 250px;
     margin: 0 auto;
-    padding: 5px 15px;
+    padding: 30px 30px;
 }
 
 .service img {
@@ -140,8 +140,13 @@ header a:hover {
 
 }
 
+#bespoke-services h3 div {
+    margin-top: 15px;
+}
+
 #bespoke-services h3 a {
     text-decoration: underline;
+
 }
 
 #bespoke-services h3 a:hover {

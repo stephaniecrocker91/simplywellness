@@ -197,5 +197,16 @@ header a:hover {
 
 /* Does this work????? Style checkbox buttons checked to website colors*/
 
+input[type="checkbox"]:checked{
+    background-color: #2b2a32;
+    color:whitesmoke;
+}
+
+
+
+
+
+ /* Media Queries */
+
 
 

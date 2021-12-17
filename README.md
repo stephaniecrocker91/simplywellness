@@ -41,6 +41,7 @@ It advertises an array of services (classes and workshop packages) available for
             <li>https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/</li>
             <li>https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/</li>
         </li>
+        <li>How to create a dropdown menu for my nav-bar Our Services: </li>
 </ul>
 
 <h2>Debugging</h2>

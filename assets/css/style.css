@@ -17,7 +17,7 @@ h1, h2{
 }
 
 h2 {
-    margin-top: 50px;
+    margin-top: 200px;
     margin-bottom: 30px; 
 }
 
@@ -59,6 +59,7 @@ header{
     text-align: center;
     margin: 0, auto;
     padding: 1%;
+    position:fixed;
 }
 
 h1 {
@@ -185,13 +186,12 @@ header a:hover {
 }
 
 /* Hover styling for social media links.*/
-footer a:hover {
+#send-button, footer a:hover {
     background-color: #2b2a32;
     color:whitesmoke;
 }
-#send-button:hover {
-    background-color: #2b2a32;
-    color: whitesmoke;
-}
+
+/* Does this work????? Style checkbox buttons checked to website colors*/
+
 
 

@@ -287,7 +287,6 @@ footer a:hover {
 
 
     .service img {
-        display: inline-block;
         margin-left: 0;
         float: left;
         max-width: 40%;
@@ -296,15 +295,15 @@ footer a:hover {
 
     .service-description-text {
         max-width: 50%;
-        display: inline-block;
         float: right;
     }
 
     .service,
-    #social-links{
+    #social-links {
         clear: both;
     }
-    .back-to-top{
+
+    .back-to-top {
         text-align: left;
     }
 }

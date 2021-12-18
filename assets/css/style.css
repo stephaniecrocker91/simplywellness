@@ -301,7 +301,10 @@ footer a:hover {
     }
 
     .service,
-    .back-to-top {
+    #social-links{
         clear: both;
+    }
+    .back-to-top{
+        text-align: left;
     }
 }

@@ -227,6 +227,15 @@ footer a:hover {
 /*For iPad */
 
 @media screen and (min-width: 600px) {
+    
+    /* headers to be visible under nav bar*/
+    h2 {
+        margin-top: 220px;
+    }
+    .service {
+        padding-top: 200px;
+    }
+
 /* Homepage: Larger background-image */
     body {
         font-size: 22px;

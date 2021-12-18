@@ -57,7 +57,6 @@ a {
 
 /* Header & Navigation Bar */
 
-
 header {
     background-color: #2b2a32;
     position: cover;
@@ -68,6 +67,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
+    z-index: 10;
 
 }
 

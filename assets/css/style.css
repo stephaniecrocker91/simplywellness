@@ -153,6 +153,7 @@ header a:hover {
     background-color: #2b2a32;
     color: whitesmoke;
 }
+
 .back-to-top a {
     text-decoration: underline;
     font-style: italic;
@@ -227,62 +228,79 @@ footer a:hover {
 /*For iPad */
 
 @media screen and (min-width: 600px) {
-    
+
     /* headers to be visible under nav bar*/
     h2 {
         margin-top: 220px;
     }
+
     .service {
         padding-top: 200px;
     }
 
-/* Homepage: Larger background-image */
+    /* Homepage: Larger background-image */
     body {
         font-size: 22px;
     }
+
     #homepage-section {
         height: 800px;
-    }    
+    }
 
-/* Contact Us page: Larger background-image, and centered form within it*/
+    /* Contact Us page: Larger background-image, and centered form within it*/
     #contact-form-section {
         height: 800px
     }
+
     .contact-form {
         top: 142px;
         width: 260px;
     }
+
     .text-box {
         width: 253px;
     }
+
     #send-button {
         margin-top: 22px;
-        font-size:x-large;
+        font-size: x-large;
     }
-/* Our Services: Larger images */
-    .service img {
-        max-width: 340px; 
 
+    /* Our Services: Larger images */
+    .service img {
+        max-width: 340px;
+
+    }
 }
+
 @media screen and (min-width: 755px) {
     h2 {
         margin-top: 160px;
     }
+
     .service {
         padding-top: 150px;
     }
 }
 
 @media screen and (min-width: 900px) {
+
+
     .service img {
-        margin-left: 0;
-        float:left;
-}
-    .inline-block{
         display: inline-block;
+        margin-left: 0;
+        float: left;
     }
+
+
     .service-description-text {
         max-width: 50%;
-        float:right;
+        display: inline-block;
+        float: right;
+    }
+
+    .service,
+    .back-to-top {
+        clear: both;
     }
 }

@@ -166,22 +166,23 @@ header a:hover {
     background-size: cover;
     background-position: center;
     height: 500px;
+    position: relative;
 }
 
 
 .contact-form {
-    max-width: 210px;
     margin-left: auto;
     margin-right: auto;
     background-color: whitesmoke;
+    width: 210px;
     padding: 20px;
     position: relative;
-    top: 52px;
+    top: 44.5px;
     color: #2b2a32;
 }
 
 .text-box {
-    width: 204px;
+    width: 200px;
     background: transparent;
     border: 1px solid #2b2a32;
     border-radius: 2px;
@@ -222,3 +223,30 @@ footer a:hover {
 }
 
 /* Media Queries */
+
+/*For iPad */
+
+@media screen and (min-width: 600px) {
+/* Homepage: Larger background-image */
+    body {
+        font-size: 22px;
+    }
+    #homepage-section {
+        height: 800px;
+    }    
+
+/* Contact Us page: Larger background-image, and centered form within it*/
+    #contact-form-section {
+        height: 800px
+    }
+    .contact-form {
+        top: 194.5px;
+        width: 260px;
+    }
+    .text-box {
+        width: 253px;
+    }
+/* Our Services: Larger images */
+
+
+}

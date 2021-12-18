@@ -153,6 +153,10 @@ header a:hover {
     background-color: #2b2a32;
     color: whitesmoke;
 }
+.back-to-top a {
+    text-decoration: underline;
+    font-style: italic;
+}
 
 /* Contact Us Page */
 

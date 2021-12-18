@@ -255,6 +255,10 @@ footer a:hover {
     .text-box {
         width: 253px;
     }
+    #send-button {
+        margin-top: 22px;
+        font-size:x-large;
+    }
 /* Our Services: Larger images */
 
 

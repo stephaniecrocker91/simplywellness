@@ -116,26 +116,32 @@ header a:hover {
 
 /* Our Services Page */
 
+#bespoke-services {
+    background-image: url(../images/pexels-anna-nekrashevich-7815537.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 595px;
+   padding: 30px;
+}
+
 .service {
     margin-top: 50px;
     padding-top: 160px;
 }
+#packages {
 
+    width: 250px;
+    margin: 0 auto;
+    padding: 30px 30px;
+    font-style: italic;
+}
 .service h3 {
     text-transform: uppercase;
     letter-spacing: 4px;
     background-color: rgb(192, 144, 121, 0.5);
     text-align: center;
 }
-
-#packages {
-    background-color: rgb(192, 144, 121, 0.2);
-    width: 250px;
-    margin: 0 auto;
-    padding: 30px 30px;
-    font-style: italic;
-}
-
 .service img {
     max-width: 240px;
     display: block;
@@ -220,6 +226,7 @@ footer {
     bottom: 0;
     z-index: 10;
     width: 100%;
+    margin-left: -18px
 }
 
 #social-links li {

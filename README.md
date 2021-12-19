@@ -58,8 +58,8 @@ It advertises an array of services (classes and workshop packages) available for
 <li>Aria-labels on the social media links, to make it user friendly and accesible.</li>
 </ul>
 <br>
-<h3>Home Page - index.html</h3>
-<p>The homepage consists in:</p>
+<h3>Home Page - <em>index.html</em></h3>
+<p>The homepage consists of:</p>
 <ul>
 <li>Image that clearly displays the theme of the webiste, and conveys a sense of peace, harmony and balance. The colors are cool and calming, and match the color palette of the site. </li>
 <li>A header just below the navigation bar that clearly explains the purpose of the site: Workplace Wellbeing & Mental health. It's colors contrast the header.</li> 
@@ -68,26 +68,38 @@ It advertises an array of services (classes and workshop packages) available for
 <li>You can return to the homepage by clicking HOME or the LOGO on the Navigation bar.</li>
 </ul>
 <br>
-<h3>Our Services Page - ourservices.html</h3>
+<h3>Our Services Page - <em>ourservices.html</em></h3>
 <p> Our services section is set up on another HTML page. It's aim is to describe in detail the services we provide. It is structured as follows:
 <ul>
-<li>A header: Our Bespoke Packages, which clearly describes what we offer.</li>
-<li>A sub-header that lists the specific services we offer: Meditation, Yoga, Pilates, Hiit and Nutrition. Each item in the list is a hyperlink which sends the user to another section of the page describing that particular service. </li>
-<li>A small paragraph in a white box detailing how the services may be structured.</li>
-<li>This first section has an image-background that is easy on the eye, subtle and allows for the text over it to be easily read.</li>
+<li><u>A header:</u> "Our Bespoke Packages", which clearly describes what we offer.</li>
+<li><u>A sub-header:</u> lists the specific services we offer: Meditation, Yoga, Pilates, Hiit and Nutrition. Each service listed hyperlinks to the section of the page with a more detailed description of that particular service. </li>
+<li><u>A small paragraph:</u> in a white box detailing how the service packages.</li>
+<li>This first section has an image-background that is easy on the eye, subtle and allows the text over it to be easily read.</li>
 </ul>
-Each one of the hyperlinks at the top of this page take the user to a subsection containing:
+Each one of the hyperlinks at the top of this page take the user to a sub-section containing:
 <ul>
-<li>A header with the service name. It's background color is dusty pink, and the font is uppercase. It makes for a clear distinction between the different services sections.</li>
-<li>An image that portrays the service to the user. Every image is styles exactly the same.</li>
-<li>A few paragraphs about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.</li>
-<li>A <em>Back to Top</em> Just below the paragraphs, there is a hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.</li></ul>
+<li><u>A header:</u> with the service name (E.g: YOGA). The background color is dusty pink, and the font is uppercase. It makes for a clear distinction between the different services sections.</li>
+<li><u>An image:</u> that portrays the service to the user. </li>
+<li><u>A few paragraphs:</u> about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.</li>
+<li><u>A "Back to Top" link:</u> This hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.</li></ul>
 
 <br>
 
 <h3>Contact Us Page - contactform.html</h3>
-<p> The contact form section is also set up on another HTML page. The aim of this contact form, is to find out what servicers the User is interested in through the use of te checkbox (where one or more options are allowed to be checked). All input fields (except for the checkbox) are required to be filled out to be able to submit the form. </p>
-<p>The contact form is simple, easy to read, and enphasizes the services available for the user.</p>
+
+<p> The contact form section is also set up on another HTML page. The aim of this contact form, is for the user to contact us regarding interest. It consists of: </p>
+<ul>
+<li><u>A header:</u> "Contact Us", which clearly describes the purpose of this section.</li>
+<li><u>A background image:</u> that is aesthetically pleasing and makes the form stand out.</li>
+<li><u>The form:</u>Containing 
+<ul>
+<li>Required text input fields (Name, Surname, Email and Contact number).</li>
+<li>Paragraph explaining the next section is optional.</li>
+<li>Optional checkboxes for interested services (Meditation, Yoga, Pilates, Hiit, Nutrition).</li>
+<li>A Send! button which submits the form.</li>
+<li>Please note: all input fields (except for the checkbox) are required to be filled out to be able to submit the form.</li></ul>
+<li>The contact form is simple, easy to read, and enphasizes the services available to the user.</li>
+</ul>
 <br>
 
 
@@ -111,7 +123,7 @@ Each one of the hyperlinks at the top of this page take the user to a subsection
             <li>https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/</li>
             
         </li>
-        <li>How to create a dropdown menu for my nav-bar Our Services: </li>
+        
 </ul>
 
 <h2>Debugging</h2>

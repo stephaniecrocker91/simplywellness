@@ -225,10 +225,10 @@ header a:hover {
     background-color: whitesmoke;
     color: #2b2a32;
     padding: 0.3rem;
-    margin-top: 0.5rem;
+    margin-top: 0.5em;
     border: 1px solid, #2b2a32;
     font-family: "Cormorant Infant";
-    font-size: 1.1rem;
+    font-size: 1.1em;
 }
 
 /* Social media links */
@@ -264,124 +264,81 @@ footer a:hover {
 
     /* headers to be visible under nav bar*/
     h2 {
-        margin-top: 220px;
+        margin-top: 14.3rem;
     }
 
     .service {
-        padding-top: 200px;
+        padding-top: 13.47rem;
+    }
+
+    .service img {
+        max-width: 55vw;
     }
 
     /* Homepage: Larger background-image */
     body {
-        font-size: 22px;
+        font-size: 1.4rem;
     }
 
     #homepage-section,
     #bespoke-services,
     #contact-form-section {
-        height: 800px;
+        height: 50rem;
     }
 
     #website-intro {
         width: 80%;
-        top: 480px;
-    }
-
-    #contact-form-section {
-        height: 800px
+        top: 30rem;
     }
 
     .contact-form {
-        top: 142px;
-        width: 260px;
+        top: 8.8rem;
+        width: 50vw;
     }
 
-    .text-box {
-        width: 253px;
-    }
-
-    #send-button {
-        margin-top: 22px;
-        font-size: x-large;
-    }
-
-    /* Our Services: Larger images */
-    .service img {
-        max-width: 340px;
-
-    }
 }
 
 @media screen and (min-width: 755px) {
-    h2 {
-        margin-top: 160px;
-    }
-
-    #website-intro {
-        top: 550px;
-    }
-
-    .service {
-        padding-top: 150px;
-    }
-
-    #social-links li {
-        font-size: 40px;
-        padding-left: 25px;
-        padding-right: 25px;
-    }
-}
-
-@media screen and (min-width: 860px) {
-
-    #homepage-section,
-    #contact-form-section {
-        height: 900px;
-    }
-
-    .contact-form {
-        top: 192px;
-    }
-}
-
-
-@media screen and (min-width: 900px) {
-
-
     .service img {
-        margin-left: 0;
-        float: left;
-        max-width: 40%;
+        max-width: 50vw;
     }
 
-
-    .service-description-text {
-        max-width: 50%;
-        float: right;
-    }
-
-    .service,
-    #social-links {
-        clear: both;
-    }
-
-    .back-to-top {
-        text-align: left;
-    }
-}
-
-
-@media screen and (min-width: 927px) {
-    #website-intro {
-        width: 715px;
-        top: 570px;
-    }
-
-    @media screen and (min-width: 1160px) {
-        #homepage-section {
-
-            width: 1160px;
-            margin: 0 auto;
+    @media screen and (min-width: 769px) {
+        h2 {
+            margin-top: 11rem;
         }
 
+        .service {
+            padding-top: 10.25rem;
+        }
     }
+
+
+    @media screen and (min-width: 900px) {
+
+
+        .service img {
+            margin-left: 0;
+            float: left;
+            max-width: 45vw;
+        }
+
+
+        .service-description-text {
+            max-width: 48vw;
+            float: right;
+        }
+
+        .service,
+        #social-links {
+            clear: both;
+        }
+
+        .back-to-top {
+            text-align: left;
+        }
+    }
+
+
+   
+   

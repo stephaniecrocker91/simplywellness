@@ -79,6 +79,7 @@ header a {
     color: whitesmoke;
 }
 
+
 /* Hover styling for nav links.*/
 
 header a:hover {
@@ -117,31 +118,35 @@ header a:hover {
 /* Our Services Page */
 
 #bespoke-services {
-    background-image: url(../images/pexels-anna-nekrashevich-7815537.jpg);
+    background-image: url(../images/Vase-white-water.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 595px;
-   padding: 30px;
+    padding: 30px;
+}
+
+#packages {
+    background-color: whitesmoke;
+    width: 260px;
+    margin: 0 auto;
+    padding: 10px 30px;
+    font-style: italic;
+    margin-top: 75px;
 }
 
 .service {
     margin-top: 50px;
     padding-top: 160px;
 }
-#packages {
 
-    width: 250px;
-    margin: 0 auto;
-    padding: 30px 30px;
-    font-style: italic;
-}
 .service h3 {
     text-transform: uppercase;
     letter-spacing: 4px;
     background-color: rgb(192, 144, 121, 0.5);
     text-align: center;
 }
+
 .service img {
     max-width: 240px;
     display: block;
@@ -191,6 +196,7 @@ header a:hover {
     top: 44.5px;
     color: #2b2a32;
 }
+
 .contact-form p {
     font-style: italic;
 }
@@ -262,11 +268,12 @@ footer a:hover {
         font-size: 22px;
     }
 
-    #homepage-section {
+    #homepage-section,
+    #bespoke-services,
+    #contact-form-section {
         height: 800px;
     }
 
-    /* Contact Us page: Larger background-image, and centered form within it*/
     #contact-form-section {
         height: 800px
     }
@@ -314,6 +321,7 @@ footer a:hover {
     #contact-form-section {
         height: 900px;
     }
+
     .contact-form {
         top: 192px;
     }
@@ -347,9 +355,9 @@ footer a:hover {
 
 @media screen and (min-width: 1160px) {
     #homepage-section {
-       
+
         width: 1160px;
         margin: 0 auto;
     }
-  
+
 }

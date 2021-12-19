@@ -211,7 +211,7 @@ header a:hover {
 }
 
 .text-box {
-    width: 56vw;
+    min-width: 56vw;
     font-size: 0.8em;
     background: transparent;
     border: 1px solid #2b2a32;
@@ -295,6 +295,9 @@ footer a:hover {
         top: 8.8rem;
         width: 50vw;
     }
+    .text-box {
+        min-width: 49vw;
+    }
 
 }
 
@@ -313,6 +316,16 @@ footer a:hover {
         }
     }
 
+    @media screen and (min-width: 800px) {
+
+        .contact-form {
+            
+            width: 26rem;
+        }
+        .text-box {
+            min-width: 25rem;
+        }
+    }
 
     @media screen and (min-width: 900px) {
 

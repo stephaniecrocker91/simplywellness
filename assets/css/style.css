@@ -199,10 +199,10 @@ header a:hover {
     margin-left: auto;
     margin-right: auto;
     background-color: whitesmoke;
-    width: 50vw;
+    width: 60vw;
     padding: 3vw;
     position: relative;
-    top: 3rem;
+    top: 1.8rem;
     color: #2b2a32;
 }
 
@@ -211,7 +211,7 @@ header a:hover {
 }
 
 .text-box {
-    width: 47vw;
+    width: 56vw;
     font-size: 0.8em;
     background: transparent;
     border: 1px solid #2b2a32;

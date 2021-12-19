@@ -332,8 +332,5 @@ footer a:hover {
 
 @media screen and (min-width: 1160px) {
 
-    #homepage-section {
-        position: contain;
-    }
-    
+  
 }

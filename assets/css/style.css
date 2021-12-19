@@ -209,7 +209,7 @@ footer {
     background-color: white;
     padding-top: 5px;
     position: fixed;
-    bottom:0;
+    bottom: 0;
     z-index: 10;
     width: 100%;
 }
@@ -285,7 +285,25 @@ footer a:hover {
     .service {
         padding-top: 150px;
     }
+
+    #social-links li {
+        font-size: 40px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
 }
+
+@media screen and (min-width: 860px) {
+
+    #homepage-section,
+    #contact-form-section {
+        height: 900px;
+    }
+    .contact-form {
+        top: 192px;
+    }
+}
+
 
 @media screen and (min-width: 900px) {
 
@@ -310,4 +328,12 @@ footer a:hover {
     .back-to-top {
         text-align: left;
     }
+}
+
+@media screen and (min-width: 1160px) {
+
+    #homepage-section {
+        position: contain;
+    }
+    
 }

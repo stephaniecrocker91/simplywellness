@@ -20,8 +20,8 @@ h2 {
 }
 
 h2 {
-    margin-top: 160px;
-    margin-bottom: 30px;
+    margin-top: 11rem;
+    margin-bottom: 2rem;
 }
 
 p,
@@ -50,8 +50,8 @@ a {
 
 .centered-lists li {
     display: inline-block;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
 
@@ -61,7 +61,7 @@ header {
     background-color: #2b2a32;
     text-align: center;
     position: fixed;
-    padding: 10px;
+    padding: 0.7rem;
     margin: 0;
     top: 0;
     left: 0;
@@ -95,22 +95,19 @@ header a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 31rem;
     margin-right: 0;
     margin-top: 0;
-
-
 }
 
 #website-intro {
-    width: 320px;
+    width: 80vw;
     padding: 0.5px 10px;
-    background-color: rgba(228,202,190, 0.95);
+    background-color: rgba(228, 202, 190, 0.95);
     text-align: center;
     position: relative;
     margin: 0 auto;
-    top: 300px;
-
+    top: 18.7rem;
 }
 
 #website-intro h4 {
@@ -125,22 +122,28 @@ header a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 595px;
-    padding: 30px;
+    height: 36rem;
+    padding: 2rem;
 }
 
 #packages {
     background-color: whitesmoke;
-    width: 260px;
+    width: 60vw;
     margin: 0 auto;
-    padding: 10px 30px;
+    padding: 0.4rem 2rem;
     font-style: italic;
-    margin-top: 75px;
+    position: relative;
+    top: 9%;
 }
 
+#bespoke-services h3 div {
+    margin-top: 1rem;
+}
+
+
 .service {
-    margin-top: 50px;
-    padding-top: 160px;
+    margin-top: 3rem;
+    padding-top: 10rem;
 }
 
 .service h3 {
@@ -151,16 +154,12 @@ header a:hover {
 }
 
 .service img {
-    max-width: 240px;
+    max-width: 60vw;
     display: block;
     margin-right: auto;
     margin-left: auto;
-
 }
 
-#bespoke-services h3 div {
-    margin-top: 15px;
-}
 
 #bespoke-services h3 a {
     text-decoration: underline;
@@ -179,8 +178,9 @@ header a:hover {
 
 /*To create space between the social media links and the hyperlinks above it. More mobile friendly.*/
 #nutrition-section,
-#contact-form-section {
-    margin-bottom: 22px;
+#contact-form-section,
+#homepage-section {
+    margin-bottom: 1.5rem;
 }
 
 /* Contact Us Page */
@@ -190,7 +190,7 @@ header a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 31rem;
 
 }
 
@@ -199,10 +199,10 @@ header a:hover {
     margin-left: auto;
     margin-right: auto;
     background-color: whitesmoke;
-    width: 210px;
-    padding: 20px;
+    width: 50vw;
+    padding: 3vw;
     position: relative;
-    top: 33.5px;
+    top: 3rem;
     color: #2b2a32;
 }
 
@@ -211,10 +211,10 @@ header a:hover {
 }
 
 .text-box {
-    width: 200px;
+    width: 47vw;
+    font-size: 0.8em;
     background: transparent;
     border: 1px solid #2b2a32;
-    border-radius: 2px;
 }
 
 .check-box {
@@ -224,19 +224,18 @@ header a:hover {
 #send-button {
     background-color: whitesmoke;
     color: #2b2a32;
-    padding: 5px;
-    margin-top: 7px;
+    padding: 0.3rem;
+    margin-top: 0.5rem;
     border: 1px solid, #2b2a32;
     font-family: "Cormorant Infant";
-    font-size: large;
-    border-radius: 2px;
+    font-size: 1.1rem;
 }
 
 /* Social media links */
 
 footer {
     background-color: white;
-    padding-top: 5px;
+    padding-top: 0.3rem;
     position: fixed;
     bottom: 0;
     z-index: 10;
@@ -245,9 +244,9 @@ footer {
 }
 
 #social-links li {
-    font-size: 30px;
-    padding-left: 25px;
-    padding-right: 25px;
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-right: 1.5rem;
 }
 
 /* Hover styling for social media links.*/

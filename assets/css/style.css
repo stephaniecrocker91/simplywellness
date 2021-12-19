@@ -331,6 +331,10 @@ footer a:hover {
 }
 
 @media screen and (min-width: 1160px) {
-
+    #homepage-section {
+       
+        width: 1160px;
+        margin: 0 auto;
+    }
   
 }

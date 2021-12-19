@@ -109,6 +109,10 @@ header a:hover {
     right: 5%;
 }
 
+#website-intro h4 {
+    font-style: italic;
+}
+
 
 /* Our Services Page */
 
@@ -129,6 +133,7 @@ header a:hover {
     width: 250px;
     margin: 0 auto;
     padding: 30px 30px;
+    font-style: italic;
 }
 
 .service img {
@@ -179,6 +184,9 @@ header a:hover {
     position: relative;
     top: 44.5px;
     color: #2b2a32;
+}
+.contact-form p {
+    font-style: italic;
 }
 
 .text-box {

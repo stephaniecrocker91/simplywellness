@@ -1,33 +1,75 @@
 <h1>Simply Wellness: Worspace Wellness</h1>
+<hr>
+<h2>About the website:</h2>
+<hr>
 <p> <i>Simply wellness</i> is a website designed specifically to advertise <i>Workspace Wellness</i>.
 It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace. </p>
+<h3>Target Audience:</h3>
+<hr>
 <p> It's target is to convince businesses to purchase these bespoke packages with the hopes of boosting employees productivity, moral, mental health and overall sense of wellbeing in the workplace.</p>
+<ul>
+<li>Business owners.</li>
+<li>Human resource managers.</li>
+<li>Business employees.</li>
+<li>Wellness enthusiasts.</li>
+<li>18+ ages.</li>
+</ul>
 <br>
-<h2>What do I want from this site as a user?</h2>
+<h2>User Stories</h2>
+<hr>
  <uL>
-  <li>Easy to navigate. </li>
+  <li>Easy to navigate the site. </li>
   <li>Clear as to what services are provided and how.</li>
   <li>Insightful: why are these services benefitial to my employees?</li>
+  <li>Educational: I want to learn something about the services after reading the content of this site.</li>
+  <li>I want the services to look appealing.</li>
  </uL>
  <br>
+ <h2>Strategy</h2>
+<hr>
+<p>Create an aesthetically pleasing, peaceful and harmonious site that invites the user to a world of wellness. Consistent styling for easy navigation using a mobile-first approach and then ensuring it displays flawlessly across all devices. Create a code that is clear and allows to update with ease.</p>
+<h2>Structure</h2>
+<hr>
 
-<h2>Navigation Bar</h2>
-<p> The navigation bar is clearly displayed on each HTML page (Home, Our Services, and Contact Form). It is clear about which section it will direct you to and what information you will find. As you scroll down the navigation bar is <u>ALWAYS</u> at the top of the bar. The CSS styling makes it contrasting to the rest of the page: so as to clearly stand out.</p>
-<p>Navigation bar contains aria-labels to make it user friendly and accesible.</p>
-<br>
+<h3>Header</h3>
+<h4><em>Navigation Bar & Logo</em></h4>
+<ul>
+<li>The Logo & navigation bar is clearly displayed on each HTML page and contains links to:
+<ul>
+<li>Home</li>
+<li>Our Services</li>
+<li>Contact Us</li></ul></li>
+<li>The logo also contains a hyperlink to the index.html.</li>
+<li>As you scroll down, the header: navigation bar & logo is fixed: <em>always</em> at the top of the page for easy navigation through site.</li>
+<li>The CSS styling makes it contrasting to the rest of the page, standing out.</li>
+<li>Contains aria-labels attached to links to make it user friendly and accesible.</li>
+</ul>
 
-<h2>Our Services</h2>
+<h3>Footer</h3>
+<h4><em>Social Media Links</em></h4>
+<ul>
+<li>The footer is also clearly displayed at the bottom of each HTML page and contains links to the business social media pages:</li>
+<ul><li>Instagram</li>
+<li>Facebook</li>
+<li>Linkedin</li></ul>
+<li>It is also fixed: always at the bottom of the page so as to be easily accesible to the user. It opens in a new tab.</li>
+<li>The hyperlinks have font-awesome images clearly displaying each social media type.</li>
+<li>The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.</li>
+<li>Aria-labels on the social media links, to make it user friendly and accesible.</li>
+</ul>
+
+<h3>Home Page - index.html</h3>
+
+<h2>Our Services Page - ourservices.html</h2>
 <p> Our services section is set up on another HTML page. It's aim is to clearly describe the services we provide including. It is structured with: a header, a paragraph description of the services an it's benefits, and an image portraying the service.</p>
 <br>
 
-<h2>Contact Form</h2>
+<h2>Contact Us Page - contactform.html</h2>
 <p> The contact form section is also set up on another HTML page. The aim of this contact form, is to find out what servicers the User is interested in through the use of te checkbox (where one or more options are allowed to be checked). All input fields (except for the checkbox) are required to be filled out to be able to submit the form. </p>
 <p>The contact form is simple, easy to read, and enphasizes the services available for the user.</p>
 <br>
 
-<h2>Footer</h2>
-<p>The footer is at the bottom of the page, and contains useful information linking the web page to social media pages: Instagram, Facebook and Linkedin. The hyperlinks have font-awesome images clearly displaying each social media type. The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.</p>
-<<p>Footer contains aria-labels on the social media links, to make it user friendly and accesible.</p>
+
 
  <h2>Credits</h2>
     <ul>

@@ -10,6 +10,9 @@ ABOUT THE WEBSITE:
 
 _Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
+
+
+
 ## TARGET AUDIENCE:
 
 * * *

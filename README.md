@@ -199,7 +199,7 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <h5>Our Services - ourservices.html</h5>
 <img src="assets/images/ourservices-val.png">
 <ol>
-<li>For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. </li>
+<li>For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. I re-tested and there was still an error: the h3 wrapped around the ul. Remved this and then had to restyle CSS again.</li>
 <li>Same as above.</li>
 <li>Debugged by solving first bug.</li>
 <li>Removed illegal character path (space) in file name. Not it is man-meditating-yellowhair.jpg</li>

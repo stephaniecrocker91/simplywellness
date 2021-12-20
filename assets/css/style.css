@@ -126,7 +126,7 @@ header a:hover {
     padding: 2rem;
     font-size: 1.1em;
 }
-#bespoke-services ul {
+#bespoke-services>ul {
     padding-left: 0;
 }
 #bespoke-services li {

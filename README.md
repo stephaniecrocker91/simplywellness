@@ -219,6 +219,16 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <ul>
 <li>Contact us page came up with no errors.</li></ul>
 
+<h4>CSS Validator</h4>
+<img src="assets/images/css-val1.png">
+<ol>
+<li>Wrong syntax: Removed the px from 300px.</li>
+<li>Wrong syntax: Removed the unnecesary coma.</li>
+<li>Wrong syntax: Removed the unnecesary coma.</li>
+<li>Typo: Accidental extra { removed.</li>
+</ol>
+<p>And finally...</p>
+<img src="assets/images/css-val2.png">
 
 
 

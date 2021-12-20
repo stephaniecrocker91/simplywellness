@@ -185,7 +185,7 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li><a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
 </ul>
 
-<h2>Testing</h2>
+<h2>Testing, Bugs & Fixes</h2>
 <hr>
 <p>For testing I used a few sources</p>
 

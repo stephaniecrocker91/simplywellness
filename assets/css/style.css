@@ -6,7 +6,7 @@
 body {
     font-family: "Cormorant Infant";
     letter-spacing: 1px;
-    font-weight: 300px;
+    font-weight: 300;
     padding: 10px;
     text-align: center;
     font-size: 17px;
@@ -40,7 +40,7 @@ a {
 
 .centered-lists {
     text-align: center;
-    margin: 0, auto;
+    margin: 0 auto;
 }
 
 .centered-lists ul {
@@ -152,6 +152,7 @@ header a:hover {
     position: relative;
     top: 9%;
 }
+
 #packages li {
     list-style-type: disc;
     text-align: left;
@@ -216,7 +217,7 @@ header a:hover {
     text-align: center;
     margin-top: 0;
     margin-bottom: 1rem;
- }
+}
 
 .contact-form p {
     font-style: italic;
@@ -238,7 +239,7 @@ header a:hover {
     color: #2b2a32;
     padding: 0.3rem;
     margin-top: 0.5em;
-    border: 1px solid, #2b2a32;
+    border: 1px solid #2b2a32;
     font-family: "Cormorant Infant";
     font-size: 1.1em;
 }
@@ -318,51 +319,51 @@ footer a:hover {
     .service img {
         max-width: 50vw;
     }
+}
 
-    @media screen and (min-width: 769px) {
-        h2 {
-            margin-top: 11rem;
-        }
-
-        .service {
-            padding-top: 10.25rem;
-        }
+@media screen and (min-width: 769px) {
+    h2 {
+        margin-top: 11rem;
     }
 
-    @media screen and (min-width: 800px) {
+    .service {
+        padding-top: 10.25rem;
+    }
+}
 
-        .contact-form {
+@media screen and (min-width: 800px) {
 
-            width: 26rem;
-        }
+    .contact-form {
 
-        .text-box {
-            min-width: 25rem;
-        }
+        width: 26rem;
     }
 
-    @media screen and (min-width: 900px) {
-
-
-        .service img {
-            margin-left: 0;
-            float: left;
-            max-width: 45vw;
-        }
-
-
-        .service-description-text {
-            max-width: 48vw;
-            float: right;
-        }
-
-        .service,
-        #social-links {
-            clear: both;
-        }
-
-        .back-to-top {
-            text-align: left;
-        }
-
+    .text-box {
+        min-width: 25rem;
     }
+}
+
+@media screen and (min-width: 900px) {
+
+
+    .service img {
+        margin-left: 0;
+        float: left;
+        max-width: 45vw;
+    }
+
+
+    .service-description-text {
+        max-width: 48vw;
+        float: right;
+    }
+
+    .service,
+    #social-links {
+        clear: both;
+    }
+
+    .back-to-top {
+        text-align: left;
+    }
+}

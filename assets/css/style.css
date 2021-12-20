@@ -20,7 +20,7 @@ h2 {
 }
 
 h2 {
-    margin-top: 11rem;
+    margin-top: 12.5rem;
     margin-bottom: 2rem;
 }
 
@@ -122,7 +122,7 @@ header a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 36rem;
+    height: 40rem;
     padding: 2rem;
     font-size: 1.1em;
 }
@@ -147,12 +147,12 @@ header a:hover {
 
 #packages {
     background-color: whitesmoke;
-    width: 60vw;
+    width: 50vw;
     margin: 0 auto;
     padding: 0.4rem 2rem;
     font-style: italic;
     position: relative;
-    top: 9%;
+    top: 0.1rem;
 }
 
 #packages li {
@@ -198,7 +198,7 @@ header a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 35rem;
+    height: 32rem;
 
 }
 
@@ -210,7 +210,7 @@ header a:hover {
     width: 70vw;
     padding: 3vw;
     position: relative;
-    top: 2.2rem;
+    top: 2.5rem;
     color: #2b2a32;
 }
 
@@ -275,11 +275,15 @@ footer a:hover {
 
 /*For iPad */
 
-@media screen and (max-width: 342px) {
-    .contact-form {
-        top: 1rem;
-}
-}
+
+@media screen and (min-width: 412px){ 
+    
+        #packages {
+            top: 5rem;
+    }
+
+    }
+
 
 @media screen and (min-width: 600px) {
 
@@ -352,7 +356,11 @@ footer a:hover {
 }
 
 @media screen and (min-width: 900px) {
+    #homepage-section {
 
+        width: 900px;
+        margin: 0 auto;
+    }
 
     .service img {
         margin-left: 0;
@@ -373,5 +381,17 @@ footer a:hover {
 
     .back-to-top {
         text-align: left;
+    }
+}
+@media screen and (min-width: 1160px) {
+
+    #homepage-section {
+
+        width: 70vw;
+        height:50rem;
+        margin: 0 auto;
+    }
+    #website-intro {
+        top: 50vh;
     }
 }

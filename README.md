@@ -1,327 +1,351 @@
-<h1>Simply Wellness: Worspace Wellness</h1>
-<hr>
+Simply Wellness: Worspace Wellness
+==================================
 
+* * *
 
-<h2>About the website:</h2>
-<hr>
-<p><i>Simply wellness</i> is a website designed specifically to advertise <i>Workspace Wellness</i>.
-It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace. </p>
-<h3>Target Audience:</h3>
-<hr>
-<p> It's target is to convince businesses to purchase these bespoke packages with the hopes of boosting employees productivity, moral, mental health and overall sense of wellbeing in the workplace.</p>
-<ul>
-<li>Business owners.</li>
-<li>Human resource managers.</li>
-<li>Business employees.</li>
-<li>Wellness enthusiasts.</li>
-<li>18+ ages.</li>
-</ul>
-<br>
+ABOUT THE WEBSITE:
+------------------
 
+* * *
 
-<h2>User Stories</h2>
-<hr>
- <uL>
-  <li>Easy to navigate the site. </li>
-  <li>Clear as to what services are provided and how.</li>
-  <li>Insightful: why are these services benefitial to my employees?</li>
-  <li>Educational: I want to learn something about the services after reading the content of this site.</li>
-  <li>I want the services to look appealing.</li>
- </uL>
- <br>
+_Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
+## TARGET AUDIENCE:
 
+* * *
 
-<h2>Strategy</h2>
-<hr>
-<p>Create an aesthetically pleasing, peaceful and harmonious site that invites the user to a world of wellness. Consistent styling for easy navigation using a mobile-first approach and then ensuring it displays flawlessly across all devices. Create a code that is clear and allows to update with ease.</p>
+It's target is to convince businesses to purchase these bespoke packages with the hopes of boosting employees productivity, moral, mental health and overall sense of wellbeing in the workplace.
 
+*   Business owners.
+*   Human resource managers.
+*   Business employees.
+*   Wellness enthusiasts.
+*   18+ ages.
 
-<h2>Structure</h2>
-<hr>
+  
 
-<h3>Header</h3>
-<h4><em>Navigation Bar & Logo</em></h4>
-<ul>
-<li>The Logo & navigation bar is clearly displayed on each HTML page and contains links to:
-<ul>
-<li>Home</li>
-<li>Our Services</li>
-<li>Contact Us</li></ul></li>
-<li>The logo also contains a hyperlink to the index.html.</li>
-<li>As you scroll down, the header: navigation bar & logo is fixed: <em>always</em> at the top of the page for easy navigation through site.</li>
-<li>The CSS styling makes it contrasting to the rest of the page, standing out.</li>
-<li>Contains aria-labels attached to links to make it user friendly and accesible.</li>
-</ul>
-<br>
+USER STORIES:
+-------------
 
-<h3>Footer</h3>
-<h4><em>Social Media Links</em></h4>
-<ul>
-<li>The footer is also clearly displayed at the bottom of each HTML page and contains links to the business social media pages:</li>
-<ul><li>Instagram</li>
-<li>Facebook</li>
-<li>Linkedin</li></ul>
-<li>It is also fixed: always at the bottom of the page so as to be easily accesible to the user. It opens in a new tab.</li>
-<li>The hyperlinks have font-awesome images clearly displaying each social media type.</li>
-<li>The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.</li>
-<li>Aria-labels on the social media links, to make it user friendly and accesible.</li>
-</ul>
-<br>
+* * *
 
-<h3>Home Page - <em>index.html</em></h3>
-<p>The homepage consists of:</p>
-<ul>
-<li>Image that clearly displays the theme of the webiste, and conveys a sense of peace, harmony and balance. The colors are cool and calming, and match the color palette of the site. </li>
-<li>A header just below the navigation bar that clearly explains the purpose of the site: Workplace Wellbeing & Mental health. It's colors contrast the header.</li> 
-<li>A further sub-header within a pink box that goes into further detail: the aim of the services provided, and how they are delivered. It is easily readable: font is clear and the background-color is contrasting to the background image of the section.</li>
-<li>Home page is minimalistic, clear and concise.</li>
-<li>You can return to the homepage by clicking HOME or the LOGO on the Navigation bar.</li>
-</ul>
-<br>
+1.  Easy to navigate the site.
+2.  Clear as to what services are provided and how.
+3.  Insightful: why are these services benefitial to my employees?
+4.  Educational: I want to learn something about the services after reading the content of this site.
+5.  I want the services to look appealing.
 
-<h3>Our Services Page - <em>ourservices.html</em></h3>
-<p> Our services section is set up on another HTML page. It's aim is to describe in detail the services we provide. It is structured as follows:
-<ul>
-<li><u>A header:</u> "Our Bespoke Packages", which clearly describes what we offer.</li>
-<li><u>A sub-header:</u> lists the specific services we offer: Meditation, Yoga, Pilates, Hiit and Nutrition. Each service listed hyperlinks to the section of the page with a more detailed description of that particular service. </li>
-<li><u>A small paragraph:</u> in a white box detailing how the service packages.</li>
-<li>This first section has an image-background that is easy on the eye, subtle and allows the text over it to be easily read.</li>
-</ul>
+  
+
+STRAGETY:
+---------
+
+* * *
+
+Create an aesthetically pleasing, peaceful and harmonious site that invites the user to a world of wellness. Consistent styling for easy navigation using a mobile-first approach and then ensuring it displays flawlessly across all devices. Create a code that is clear and allows to update with ease.
+
+STRUCTURE:
+----------
+
+* * *
+
+### Header & Footer
+
+* * *
+
+#### _Navigation Bar & Logo_
+
+*   The Logo & navigation bar is clearly displayed on each HTML page and contains links to:
+    *   Home
+    *   Our Services
+    *   Contact Us
+*   The logo also contains a hyperlink to the index.html.
+*   As you scroll down, the header: navigation bar & logo is fixed: _always_ at the top of the page for easy navigation through site.
+*   The CSS styling makes it contrasting to the rest of the page, standing out.
+*   Contains aria-labels attached to links to make it user friendly and accesible.
+
+  
+
+#### _Social Media Links_
+
+*   The footer is also clearly displayed at the bottom of each HTML page and contains links to the business social media pages:
+
+*   Instagram
+*   Facebook
+*   Linkedin
+
+*   It is also fixed: always at the bottom of the page so as to be easily accesible to the user. It opens in a new tab.
+*   The hyperlinks have font-awesome images clearly displaying each social media type.
+*   The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.
+*   Aria-labels on the social media links, to make it user friendly and accesible.
+
+  
+
+### Home Page - _index.html_
+
+* * *
+
+The homepage consists of:
+
+*   Image that clearly displays the theme of the webiste, and conveys a sense of peace, harmony and balance. The colors are cool and calming, and match the color palette of the site.
+*   A header just below the navigation bar that clearly explains the purpose of the site: Workplace Wellbeing & Mental health. It's colors contrast the header.
+*   A further sub-header within a pink box that goes into further detail: the aim of the services provided, and how they are delivered. It is easily readable: font is clear and the background-color is contrasting to the background image of the section.
+*   Home page is minimalistic, clear and concise.
+*   You can return to the homepage by clicking HOME or the LOGO on the Navigation bar.
+
+  
+
+### Our Services Page - _ourservices.html_
+
+* * *
+
+Our services section is set up on another HTML page. It's aim is to describe in detail the services we provide. It is structured as follows:
+
+*   A header: "Our Bespoke Packages", which clearly describes what we offer.
+*   A sub-header: lists the specific services we offer: Meditation, Yoga, Pilates, Hiit and Nutrition. Each service listed hyperlinks to the section of the page with a more detailed description of that particular service.
+*   A small paragraph: in a white box detailing how the service packages.
+*   This first section has an image-background that is easy on the eye, subtle and allows the text over it to be easily read.
+
 Each one of the hyperlinks at the top of this page take the user to a sub-section containing:
-<ul>
-<li><u>A header:</u> with the service name (E.g: YOGA). The background color is dusty pink, and the font is uppercase. It makes for a clear distinction between the different services sections.</li>
-<li><u>An image:</u> that portrays the service to the user. </li>
-<li><u>A few paragraphs:</u> about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.</li>
-<li><u>A "Back to Top" link:</u> This hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.</li></ul>
-<br>
 
-<h3>Contact Us Page - contactform.html</h3>
-<p> The contact form section is also set up on another HTML page. The aim of this contact form, is for the user to contact us regarding interest. It consists of: </p>
-<ul>
-<li><u>A header:</u> "Contact Us", which clearly describes the purpose of this section.</li>
-<li><u>A background image:</u> that is aesthetically pleasing and makes the form stand out.</li>
-<li><u>The form:</u>Containing 
-<ul>
-<li>Required text input fields (Name, Surname, Email and Contact number).</li>
-<li>Paragraph explaining the next section is optional.</li>
-<li>Optional checkboxes for interested services (Meditation, Yoga, Pilates, Hiit, Nutrition).</li>
-<li>A Send! button which submits the form.</li>
-<li>Please note: all input fields (except for the checkbox) are required to be filled out to be able to submit the form.</li></ul>
-<li>The contact form is simple, easy to read, and enphasizes the services available to the user.</li>
-</ul>
-<br>
+*   A header: with the service name (E.g: YOGA). The background color is dusty pink, and the font is uppercase. It makes for a clear distinction between the different services sections.
+*   An image: that portrays the service to the user.
+*   A few paragraphs: about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.
+*   A "Back to Top" link: This hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.
 
-
-<h2>Skeleton</h2>
-<hr>
-
-<h3>Wireframes</h3>
-<br>
-
-
-<h2>Surface</h2>
-<hr>
-
-<h3>Colors</h3>
-<hr>
-<img src="assets/images/collage.png" width="400px">
-<p>This was the image that inspired the colors for my webisite. I picked warm, earthy tones that contribute to the sites purpose. I added a few greens in the images, to give it more vibrancy.</p>
-<p>In picked the following colors to be used as font color and background-color throughout the site. </p>
-<img src="assets/images/palette.png" width="400px">
-
-<h3>Typography</h3>
-<hr>
-<ul>
-<li>I initially wanted to combine <a href="https://fonts.google.com/specimen/Cormorant+Infant" target="_blank">Cormorant Infant</a> and <a href="https://fonts.google.com/specimen/Julius+Sans+One" target="_blank">Julius Sans One </a> (for headers mostly), but after testing I preferred keeping it all <a href="https://fonts.google.com/specimen/Cormorant+Infant" target="_blank">Cormorant Infant</a></li>
-<li>Cormorant Infant: minimalistic style which portrays harmony, lightness, space and balance.</li>
-<li><u>Letter-spacing:</u> To create more sense of space I added 1px letter spacing as default body styling, and and 4px for the headers.</li>
-<li><u>Font-style:</u> I played around with Uppercase styling (for headers) and Italics (for some paragraphs) to give it more fluidity.</li>
-</ul>
-
-<h3>Images and Icons</h3>
-<hr>
-<ul>
-<li>I chose an initial image as inspiration (Hero image displayed under Colors section), and from there chose other similar images. All the images have the same earthy tones, with a few pops of green. They are minimalistic, and convey the purpose of the website. It was important to use images for every service description section, so as to give visual aid of the service provided. These images were sourced by <a href="https://www.pexels.com/" target="_blank">Pexels.</a></li>
-<li>I used instantly recognisable <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.</li>
-</ul>
-
-
-<h2>Features</h2>
-<hr>
-
-<h3>Current features</h3>
-<ul>
-<li>Navigation bar directing to pages.</li>
-<li>Pages</li>
-<ul>
-<li><u>Homepage:</u> Introduction to website</li>
-<li><u>Our services Page:</u> Hyperlinks to different services on the page, "Back to top" hyperlink under every service section.</li>
-<li><u>Contact Us Page:</u> Containing a contact us form when the user must provide contact details, and can <em>optionally</em> tick the services of interest.</li>
-</ul>
-<li>Social Media links: Facebook, Instagram, Linekdin</li>
-</ul>
-
-<h3>Future features</h3>
-<ul>
-<li>A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.</li>
-</ul>
-<h2>Languages</h2>
-<hr>
-<ul>
-<li>HTML5</li>
-<li>CSS</li>
-</ul>
-
-<h2>Other Technologies, Frameworks & Libraries</h2>
-<hr>
-<ul>
-<li><a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
-<li><a href="https://fontawesome.com/" target="_blank">Font Awesome</a></li>
-<li><a href="https://github.com/" target="_blank">GitHub</a></li>
-<li><a href="https://www.gitpod.io/" target="_blank">GitPod</a></li>
-<li><a href="https://coolors.co/" target="_blank">Coolors</a></li>
-<li><a href="https://www.pexels.com/" target="_blank">Pexels</a>
-<li><a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
-</ul>
-
-<h2>Testing, Bugs & Fixes</h2>
-<hr>
-<p>For testing I used the following sources:</p>
-<h3>Tests</h3>
-<hr>
-<h4><a href="https://validator.w3.org/" target="_blank">HTML Validator</a></h4>
-<h5>Home Page - index.html</h5>
-<img src="assets/images/indexhtml-val.png">
-<ul>
-<li>Homepage came up with no errors.</li></ul>
-<h5>Our Services - ourservices.html</h5>
-<img src="assets/images/ourservices-val.png">
-<ol>
-<li>For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. I re-tested and there was still an error: the h3 wrapped around the ul. Remved this and then had to restyle CSS again.</li>
-<li>Same as above.</li>
-<li>Debugged by solving first bug.</li>
-<li>Removed illegal character path (space) in file name. Not it is man-meditating-yellowhair.jpg</li>
-<li>Deleted stray div.</li>
-<li>Deleted stray div.</li>
-<li>Removed illegal character path (space) in file name. Not it is assets/images/pilates-lady.jpg</li>
-</ol>
-<img src="assets/images/ourservices-val-2.png">
-<ol>
-<li>Added a h3 to the form section for semangtic clarity.</li>
-</ol>
-<p>And finally...</p>
-<img src="assets/images/ourservices-val-3.png">
-
-<h5>Contact Us - contactform.html</h5>
-<img src="assets/images/contactform-val.png">
-<ul>
-<li>Contact us page came up with no errors.</li></ul>
-
-<h4><a href="https://jigsaw.w3.org/css-validator/" target="_blank">CSS Validator- Jigsaw</a></h4>
-<img src="assets/images/css-val1.png">
-<ol>
-<li>Wrong syntax: Removed the px from 300px.</li>
-<li>Wrong syntax: Removed the unnecesary coma.</li>
-<li>Wrong syntax: Removed the unnecesary coma.</li>
-<li>Typo: Accidental extra { removed.</li>
-</ol>
-<p>And finally...</p>
-<img src="assets/images/css-val2.png">
-
-<h4>Testing sheet</h4>
-<h1>OMG HELP ME KILL ME NOW</h1>
-
-<h4>Chrome Dev Tools - Lighthouse </h4>
-<h1>BRING ME BACK TO LIFE AND KILL ME AGAIN.</h1>
-
-<h4>Testing User Stories </h4>
-<ol>
-  <li>Easy to navigate the site. 
-  <ul>
-  <li>Nav bar is always at the top of the menu, and easily directs you to different pages.</li>
-  <img src="assets/images/navbar.png" width="400">
-
-  <li>Back to top buttons: underneath each long text section to take you back to top.</li>
-  <img src="assets/images/back-to-top.png" width="200">
-
-  <li>Logo will take you back to home page.</li>
-  <img src="assets/images/logo.png" width="400">
-
-  <li>Social media links fixed at the bottom of the site, to easily navigate to other pages. they open in a new tab.</li>
-  <img src="assets/images/footer.png" width="400">
-
-  </ul>
-  </li>
-
-  <li>Clear as to what services are provided and how.
-  <ul>
-  <li>Our services section has an initial breakdown describing each service provided. It is clear and concise.
   
-  </li>
-  <img src="assets/images/clear-services3.png" width="400">
-  <li>Following, there is a description of the type of packages available.</li>
-  <img src="assets/images/clear-services1.png"width="400">
-  <li>Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits.</li>
-  <img src="assets/images/clear-services2.png"width="400">
-  </li>
-  </ul>
 
-  </li>
-  <li>Insightful: why are these services benefitial to my employees?
-  <ul>
-  <li>Home page subheader describes immediate the benefits of these wellness services: Boost productivity & wellbeing.</li>
-  <img src="assets/images/incentive.png" width="400">
-  <li>Each service description section describes the benefits of these services to both employer and employee.</li>
-  <img src="assets/images/benefits-service.png" width="400">
-  </ul>
+### Contact Us Page - contactform.html
+
+* * *
+
+The contact form section is also set up on another HTML page. The aim of this contact form, is for the user to contact us regarding interest. It consists of:
+
+*   A header: "Contact Us", which clearly describes the purpose of this section.
+*   A background image: that is aesthetically pleasing and makes the form stand out.
+*   The form:Containing
+    *   Required text input fields (Name, Surname, Email and Contact number).
+    *   Paragraph explaining the next section is optional.
+    *   Optional checkboxes for interested services (Meditation, Yoga, Pilates, Hiit, Nutrition).
+    *   A Send! button which submits the form.
+    *   Please note: all input fields (except for the checkbox) are required to be filled out to be able to submit the form.
+*   The contact form is simple, easy to read, and enphasizes the services available to the user.
+
   
-  </li>
-  <li>Educational: I want to learn something about the services after reading the content of this site.
-  <ul>
-  <li>The Our Services section goes into details about each services: content, health and psychological benefits and structure.</li>
-  <img src="assets/images/educational.png" width="400">
-  </ul>
-  </li>
-  <li>I want the services to look appealing.
-  <ul>
-  <li>Images throughout the website portray the services as inviting, inclusive and appealing.</li>
-  <img src="assets/images/image3.png" width="200">
-  <img src="assets/images/image1.png" width="200">
-  <img src="assets/images/image2.png" width="200">
 
-  <li>Use of language is inviting</li>
-  </ul>
-  </li>
-</ol>
- 
-</ul>
-<h2>Deployment</h2>
-<hr>
-<h3>GitHub Pages</h3>
+## SKELETON:
 
-<h3>Forking The GitHub Repository</h3>
+-----------
 
-<h3>Cloning the Project.</h3>
+### WIREFRAMES:
 
-<h2>Credits</h2>
-<hr>
-    <ul>
-        <li>NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/ </li>
-        <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6 https://www.medicalnewstoday.com/articles/327474#benefits</li>
-        <li>Pilates benefits: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits</li>
-        <li>Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268</li>
-        <li>Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.</li>
-        <li>Font awesome: https://fontawesome.com/ (Used for social media anchor links)</li>
-        <li>Used the Love Running Project Contact Form section as inspiration for my contact form. Used snippets of the code to place a background-image and a box over it with the contact section details.</li>
-        <li>Birme for cropping IMAGES:https://www.birme.net/?target_width=2500&target_height=1500</li>
-        <li> Images from: https://www.pexels.com/ Credits: 
-            <li>https://www.pexels.com/photo/fashion-man-people-art-4662438/</li>
-            <li>https://www.pexels.com/photo/pizza-fashion-couple-woman-6443467/</li>
-            <li>https://www.pexels.com/photo/young-obese-female-doing-bending-exercise-in-white-studio-6975385/</li>
-            <li>https://www.pexels.com/photo/green-vegetable-on-white-ceramic-plate-4117644/</li>
-            <li>https://www.pexels.com/photo/person-touching-white-flowers-4883429/</li>
-            <li>https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/</li>
-            <li>https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/</li>
-            <li>https://www.pexels.com/photo/nature-summer-texture-garden-7815537/</li>     
+-------------  
 
+## SURFACE:
+--------
+
+* * *
+
+### Colors
+
+* * *
+
+![](assets/images/collage.png)
+
+This was the image that inspired the colors for my webisite. I picked warm, earthy tones that contribute to the sites purpose. I added a few greens in the images, to give it more vibrancy.
+
+In picked the following colors to be used as font color and background-color throughout the site.
+
+![](assets/images/palette.png)
+
+### Typography
+
+* * *
+
+*   I initially wanted to combine [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant) and [Julius Sans One](https://fonts.google.com/specimen/Julius+Sans+One) (for headers mostly), but after testing I preferred keeping it all [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant)
+*   Cormorant Infant: minimalistic style which portrays harmony, lightness, space and balance.
+*   Letter-spacing: To create more sense of space I added 1px letter spacing as default body styling, and and 4px for the headers.
+*   Font-style: I played around with Uppercase styling (for headers) and Italics (for some paragraphs) to give it more fluidity.
+
+### Images and Icons
+
+* * *
+
+*   I chose an initial image as inspiration (Hero image displayed under Colors section), and from there chose other similar images. All the images have the same earthy tones, with a few pops of green. They are minimalistic, and convey the purpose of the website. It was important to use images for every service description section, so as to give visual aid of the service provided. These images were sourced by [Pexels.](https://www.pexels.com/)
+*   I used instantly recognisable [Font Awesome](https://fontawesome.com/) icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.
+
+FEATURES:
+---------
+
+* * *
+
+### Current features
+
+*   Navigation bar directing to pages.
+*   Pages
+
+*   Homepage: Introduction to website
+*   Our services Page: Hyperlinks to different services on the page, "Back to top" hyperlink under every service section.
+*   Contact Us Page: Containing a contact us form when the user must provide contact details, and can _optionally_ tick the services of interest.
+
+*   Social Media links: Facebook, Instagram, Linekdin
+
+### Future features
+
+*   A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.
+
+LANGUAGES:
+----------
+
+* * *
+
+*   HTML5
+*   CSS
+
+OTHER TECHNOLOGIES, FRAMEWORKS & LIBRARIES:
+-------------------------------------------
+
+* * *
+
+*   [Google Fonts](https://fonts.google.com/)
+*   [Font Awesome](https://fontawesome.com/)
+*   [GitHub](https://github.com/)
+*   [GitPod](https://www.gitpod.io/)
+*   [Coolors](https://coolors.co/)
+*   [Pexels](https://www.pexels.com/)
+*   [Stack Overflow](https://stackoverflow.com/)
+
+TESTING, BUGS & FIXES:
+----------------------
+
+* * *
+
+For testing I used the following sources:
+
+### Tests
+
+* * *
+
+#### [HTML Validator](https://validator.w3.org/)
+
+##### Home Page - index.html
+
+![](assets/images/indexhtml-val.png)
+
+*   Homepage came up with no errors.
+
+##### Our Services - ourservices.html
+
+![](assets/images/ourservices-val.png)
+
+1.  For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. I re-tested and there was still an error: the h3 wrapped around the ul. Remved this and then had to restyle CSS again.
+2.  Same as above.
+3.  Debugged by solving first bug.
+4.  Removed illegal character path (space) in file name. Not it is man-meditating-yellowhair.jpg
+5.  Deleted stray div.
+6.  Deleted stray div.
+7.  Removed illegal character path (space) in file name. Not it is assets/images/pilates-lady.jpg
+
+![](assets/images/ourservices-val-2.png)
+
+1.  Added a h3 to the form section for semangtic clarity.
+
+And finally...
+
+![](assets/images/ourservices-val-3.png)
+
+##### Contact Us - contactform.html
+
+![](assets/images/contactform-val.png)
+
+*   Contact us page came up with no errors.
+
+#### [CSS Validator- Jigsaw](https://jigsaw.w3.org/css-validator/)
+
+![](assets/images/css-val1.png)
+
+1.  Wrong syntax: Removed the px from 300px.
+2.  Wrong syntax: Removed the unnecesary coma.
+3.  Wrong syntax: Removed the unnecesary coma.
+4.  Typo: Accidental extra { removed.
+
+And finally...
+
+![](assets/images/css-val2.png){width: 50px}
+
+#### Testing sheet
+
+OMG HELP ME KILL ME NOW
+=======================
+
+#### Testing User Stories
+
+1.  Easy to navigate the site.
+    *   Nav bar is always at the top of the menu, and easily directs you to different pages.
+    ![](assets/images/navbar.png)
+    * Back to top buttons: underneath each long text section to take you back to top.
+
+    ![](assets/images/back-to-top.png)
+    * Logo will take you back to home page.
+    ![](assets/images/logo.png)
+    * Social media links fixed at the bottom of the site, to easily navigate to other pages. they open in a new tab.
+    ![](assets/images/footer.png)
+2.  Clear as to what services are provided and how.
+    *   Our services section has an initial breakdown describing each service provided. It is clear and concise.
+    ![](assets/images/clear-services3.png)
+    * Following, there is a description of the type of packages available.
+    ![](assets/images/clear-services1.png)
+    * Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits.
+    ![](assets/images/clear-services2.png)
+3.  Insightful: why are these services benefitial to my employees?
+    *   Home page subheader describes immediate the benefits of these wellness services: Boost productivity & wellbeing.
+    ![](assets/images/incentive.png)
+    * Each service description section describes the benefits of these services to both employer and employee.
+    ![](assets/images/benefits-service.png)
+4.  Educational: I want to learn something about the services after reading the content of this site.
+    *   The Our Services section goes into details about each services: content, health and psychological benefits and structure.
+    ![](assets/images/educational.png)
+5.  I want the services to look appealing.
+    *   Images throughout the website portray the services as inviting, inclusive and appealing.
+    ![](assets/images/image3.png) ![](assets/images/image1.png) ![](assets/images/image2.png) 
+    * Use of language is inviting
+
+DEPLOYMENT:
+-----------
+
+* * *
+
+### GitHub Pages
+
+* * *
+
+### Forking The GitHub Repository
+
+* * *
+
+### Cloning the Project.
+
+* * *
+
+CREDITS:
+--------
+
+* * *
+
+*   NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/
+*   HIIT webiste for benefits content: https://www.healthline.com/nutrition/benefits-of-hiit#TOC\_TITLE\_HDR\_6 https://www.medicalnewstoday.com/articles/327474#benefits
+*   Pilates benefits: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits
+*   Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268
+*   Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.
+*   Font awesome: https://fontawesome.com/ (Used for social media anchor links)
+*   Used the Love Running Project Contact Form section as inspiration for my contact form. Used snippets of the code to place a background-image and a box over it with the contact section details.
+*   Birme for cropping IMAGES:https://www.birme.net/?target\_width=2500&target\_height=1500
+*   Images from: https://www.pexels.com/ Credits:
+*   https://www.pexels.com/photo/fashion-man-people-art-4662438/
+*   https://www.pexels.com/photo/pizza-fashion-couple-woman-6443467/
+*   https://www.pexels.com/photo/young-obese-female-doing-bending-exercise-in-white-studio-6975385/
+*   https://www.pexels.com/photo/green-vegetable-on-white-ceramic-plate-4117644/
+*   https://www.pexels.com/photo/person-touching-white-flowers-4883429/
+*   https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/
+*   https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/
+*   https://www.pexels.com/photo/nature-summer-texture-garden-7815537/

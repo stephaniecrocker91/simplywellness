@@ -187,11 +187,10 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 
 <h2>Testing, Bugs & Fixes</h2>
 <hr>
-<p>For testing I used a few sources</p>
-
+<p>For testing I used the following sources:</p>
 <h3>Tests</h3>
 <hr>
-<h4>HTML Validator</h4>
+<h4><a href="https://validator.w3.org/" target="_blank">HTML Validator</a></h4>
 <h5>Home Page - index.html</h5>
 <img src="assets/images/indexhtml-val.png">
 <ul>
@@ -219,7 +218,7 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <ul>
 <li>Contact us page came up with no errors.</li></ul>
 
-<h4>CSS Validator</h4>
+<h4><a href="https://jigsaw.w3.org/css-validator/" target="_blank">CSS Validator- Jigsaw</a></h4>
 <img src="assets/images/css-val1.png">
 <ol>
 <li>Wrong syntax: Removed the px from 300px.</li>
@@ -241,37 +240,56 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
   <li>Easy to navigate the site. 
   <ul>
   <li>Nav bar is always at the top of the menu, and easily directs you to different pages.</li>
+  <img src="assets/images/navbar.png" width="400">
+
   <li>Back to top buttons: underneath each long text section to take you back to top.</li>
+  <img src="assets/images/back-to-top.png" width="200">
+
   <li>Logo will take you back to home page.</li>
+  <img src="assets/images/logo.png" width="400">
+
   <li>Social media links fixed at the bottom of the site, to easily navigate to other pages. they open in a new tab.</li>
+  <img src="assets/images/footer.png" width="400">
+
   </ul>
   </li>
 
   <li>Clear as to what services are provided and how.
   <ul>
   <li>Our services section has an initial breakdown describing each service provided. It is clear and concise.
-  <img src="assets/images/clear-services3.png">
-  </li>
-  <li>Following, there is a description of the type of packages available. <img src="assets/images/clear-services1.png"></li>
-  <li>Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits. <img src="assets/images/clear-services2.png"></li>
-  </ul>
   
+  </li>
+  <img src="assets/images/clear-services3.png" width="400">
+  <li>Following, there is a description of the type of packages available.</li>
+  <img src="assets/images/clear-services1.png"width="400">
+  <li>Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits.</li>
+  <img src="assets/images/clear-services2.png"width="400">
+  </li>
+  </ul>
+
   </li>
   <li>Insightful: why are these services benefitial to my employees?
   <ul>
   <li>Home page subheader describes immediate the benefits of these wellness services: Boost productivity & wellbeing.</li>
+  <img src="assets/images/incentive.png" width="400">
   <li>Each service description section describes the benefits of these services to both employer and employee.</li>
+  <img src="assets/images/benefits-service.png" width="400">
   </ul>
   
   </li>
   <li>Educational: I want to learn something about the services after reading the content of this site.
   <ul>
   <li>The Our Services section goes into details about each services: content, health and psychological benefits and structure.</li>
+  <img src="assets/images/educational.png" width="400">
   </ul>
   </li>
   <li>I want the services to look appealing.
   <ul>
   <li>Images throughout the website portray the services as inviting, inclusive and appealing.</li>
+  <img src="assets/images/image3.png" width="200">
+  <img src="assets/images/image1.png" width="200">
+  <img src="assets/images/image2.png" width="200">
+
   <li>Use of language is inviting</li>
   </ul>
   </li>

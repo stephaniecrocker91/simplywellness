@@ -132,6 +132,44 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li>I used instantly recognisable <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.</li>
 </ul>
 
+<h2>Features</h2>
+<hr>
+<h3>Current features</h3>
+<ul>
+<li>Navigation bar directing to pages.</li>
+<li>Pages</li>
+<ul>
+<li><u>Homepage:</u> Introduction to website</li>
+<li><u>Our services Page:</u> Hyperlinks to different services on the page, "Back to top" hyperlink under every service section.</li>
+<li><u>Contact Us Page:</u> Containing a contact us form when the user must provide contact details, and can <em>optionally</em> tick the services of interest.</li>
+</ul>
+<li>Social Media links: Facebook, Instagram, Linekdin</li>
+</ul>
+<h3>Future features</h3>
+<ul>
+<li>A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.</li>
+</ul>
+
+<h2>Languages</h2>
+<hr>
+<ul>
+<li>HTML5</li>
+<li>CSS</li>
+</ul>
+
+<h2>Other Technologies, Frameworks & Libraries</h2>
+<hr>
+<ul>
+<li><a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
+<li><a href="https://fontawesome.com/" target="_blank">Font Awesome</a></li>
+<li><a href="https://github.com/" target="_blank">GitHub</a></li>
+<li><a href="https://www.gitpod.io/" target="_blank">GitPod</a></li>
+<li><a href="https://coolors.co/" target="_blank">Coolors</a></li>
+<li><a href="https://www.pexels.com/" target="_blank">Pexels</a>/li>
+<li><a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
+</ul>
+
+
 
 
 

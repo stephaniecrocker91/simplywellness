@@ -275,16 +275,19 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
   <li>Use of language is inviting</li>
   </ul>
   </li>
- 
-
-
-
 </ol>
+ 
+</ul>
+<h2>Deployment</h2>
+<hr>
+<h3>GitHub Pages</h3>
 
+<h3>Forking The GitHub Repository</h3>
 
-
+<h3>Cloning the Project.</h3>
 
 <h2>Credits</h2>
+<hr>
     <ul>
         <li>NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/ </li>
         <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6 https://www.medicalnewstoday.com/articles/327474#benefits</li>
@@ -302,10 +305,5 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
             <li>https://www.pexels.com/photo/person-touching-white-flowers-4883429/</li>
             <li>https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/</li>
             <li>https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/</li>
-            <li>https://www.pexels.com/photo/nature-summer-texture-garden-7815537/</li>      
-</ul>
+            <li>https://www.pexels.com/photo/nature-summer-texture-garden-7815537/</li>     
 
-
-<h2>Debugging</h2>
-<p>I couldn't get my first style.css stylesheet to link up to my HTML. I tried solving it for a while, and then created another style2.css file. This one seemed to connect, so I deleted the initial one and replaced with the second.</p>
-<p>Corrected syntax for labels in contact form. From : "label for pilates" ---> wrong syntax. should be for="pilates" (pilates being the id of the checkbox it applies to). Jo from Student Support flagged this for me.</p>

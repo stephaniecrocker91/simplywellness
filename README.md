@@ -181,11 +181,11 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li><a href="https://github.com/" target="_blank">GitHub</a></li>
 <li><a href="https://www.gitpod.io/" target="_blank">GitPod</a></li>
 <li><a href="https://coolors.co/" target="_blank">Coolors</a></li>
-<li><a href="https://www.pexels.com/" target="_blank">Pexels</a>/li>
+<li><a href="https://www.pexels.com/" target="_blank">Pexels</a>
 <li><a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
 </ul>
 
-<<h2>Testing</h2>
+<h2>Testing</h2>
 <hr>
 <p>For testing I used a few sources</p>
 
@@ -206,7 +206,19 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li>Deleted stray div.</li>
 <li>Deleted stray div.</li>
 <li>Removed illegal character path (space) in file name. Not it is assets/images/pilates-lady.jpg</li>
-</ul>
+</ol>
+<img src="assets/images/ourservices-val-2.png">
+<ol>
+<li>Added a h3 to the form section for semangtic clarity.</li>
+</ol>
+<p>And finally...</p>
+<img src="assets/images/ourservices-val-3.png">
+
+<h5>Contact Us - contactform.html</h5>
+<img src="assets/images/contactform-val.png">
+<ul>
+<li>Contact us page came up with no errors.</li></ul>
+
 
 
 

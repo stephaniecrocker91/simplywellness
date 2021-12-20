@@ -1,4 +1,4 @@
-Simply Wellness: Worspace Wellness
+Simply Wellness: Workspace Wellness
 ==================================
 
 * * *
@@ -10,7 +10,7 @@ ABOUT THE WEBSITE:
 
 _Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
-
+![](assets/images/responsive-design.png)
 
 
 ## TARGET AUDIENCE:
@@ -247,7 +247,7 @@ For testing I used the following sources:
 4.  Removed illegal character path (space) in file name. Not it is man-meditating-yellowhair.jpg
 5.  Deleted stray div.
 6.  Deleted stray div.
-7.  Removed illegal character path (space) in file name. Not it is assets/images/pilates-lady.jpg
+7.  Removed illegal character path (space) in file name. Now it is assets/images/pilates-lady.jpg
 
 ![](assets/images/ourservices-val-2.png)
 
@@ -286,27 +286,38 @@ OMG HELP ME KILL ME NOW
 1.  Easy to navigate the site.
     *   Nav bar is always at the top of the menu, and easily directs you to different pages.
     ![](assets/images/navbar.png)
+
     * Back to top buttons: underneath each long text section to take you back to top.
 
     ![](assets/images/back-to-top.png)
+
     * Logo will take you back to home page.
+
     ![](assets/images/logo.png)
     * Social media links fixed at the bottom of the site, to easily navigate to other pages. they open in a new tab.
+    
+
     ![](assets/images/footer.png)
 2.  Clear as to what services are provided and how.
     *   Our services section has an initial breakdown describing each service provided. It is clear and concise.
+
     ![](assets/images/clear-services3.png)
     * Following, there is a description of the type of packages available.
+
     ![](assets/images/clear-services1.png)
     * Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits.
+
     ![](assets/images/clear-services2.png)
 3.  Insightful: why are these services benefitial to my employees?
     *   Home page subheader describes immediate the benefits of these wellness services: Boost productivity & wellbeing.
+
     ![](assets/images/incentive.png)
     * Each service description section describes the benefits of these services to both employer and employee.
+
     ![](assets/images/benefits-service.png)
 4.  Educational: I want to learn something about the services after reading the content of this site.
     *   The Our Services section goes into details about each services: content, health and psychological benefits and structure.
+
     ![](assets/images/educational.png)
 5.  I want the services to look appealing.
     *   Images throughout the website portray the services as inviting, inclusive and appealing.

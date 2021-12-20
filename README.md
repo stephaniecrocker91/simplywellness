@@ -230,6 +230,58 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <p>And finally...</p>
 <img src="assets/images/css-val2.png">
 
+<h4>Testing sheet</h4>
+<h1>OMG HELP ME KILL ME NOW</h1>
+
+<h4>Chrome Dev Tools - Lighthouse </h4>
+<h1>BRING ME BACK TO LIFE AND KILL ME AGAIN.</h1>
+
+<h4>Testing User Stories </h4>
+<ol>
+  <li>Easy to navigate the site. 
+  <ul>
+  <li>Nav bar is always at the top of the menu, and easily directs you to different pages.</li>
+  <li>Back to top buttons: underneath each long text section to take you back to top.</li>
+  <li>Logo will take you back to home page.</li>
+  <li>Social media links fixed at the bottom of the site, to easily navigate to other pages. they open in a new tab.</li>
+  </ul>
+  </li>
+
+  <li>Clear as to what services are provided and how.
+  <ul>
+  <li>Our services section has an initial breakdown describing each service provided. It is clear and concise.
+  <img src="assets/images/clear-services3.png">
+  </li>
+  <li>Following, there is a description of the type of packages available. <img src="assets/images/clear-services1.png"></li>
+  <li>Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits. <img src="assets/images/clear-services2.png"></li>
+  </ul>
+  
+  </li>
+  <li>Insightful: why are these services benefitial to my employees?
+  <ul>
+  <li>Home page subheader describes immediate the benefits of these wellness services: Boost productivity & wellbeing.</li>
+  <li>Each service description section describes the benefits of these services to both employer and employee.</li>
+  </ul>
+  
+  </li>
+  <li>Educational: I want to learn something about the services after reading the content of this site.
+  <ul>
+  <li>The Our Services section goes into details about each services: content, health and psychological benefits and structure.</li>
+  </ul>
+  </li>
+  <li>I want the services to look appealing.
+  <ul>
+  <li>Images throughout the website portray the services as inviting, inclusive and appealing.</li>
+  <li>Use of language is inviting</li>
+  </ul>
+  </li>
+ 
+
+
+
+</ol>
+
+
 
 
 <h2>Credits</h2>

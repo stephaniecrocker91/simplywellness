@@ -103,6 +103,40 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <br>
 
 
+<h2>Skeleton</h2>
+<hr>
+<h3>Wireframes</h3>
+<br>
+<h2>Surface</h2>
+<hr>
+<h3>Colors</h3>
+<hr>
+<img src="assets/images/collage.png" width="400px">
+<p>This was the image that inspired the colors for my webisite. I picked warm, earthy tones that contribute to the sites purpose. I added a few greens in the images, to give it more vibrancy.</p>
+<p>In picked the following colors to be used as font color and background-color throughout the site. </p>
+<img src="assets/images/palette.png" width="400px">
+
+<h3>Typography</h3>
+<hr>
+<ul>
+<li>I initially wanted to combine <a href="https://fonts.google.com/specimen/Cormorant+Infant" target="_blank">Cormorant Infant</a> and <a href="https://fonts.google.com/specimen/Julius+Sans+One" target="_blank">Julius Sans One </a> (for headers mostly), but after testing I preferred keeping it all <a href="https://fonts.google.com/specimen/Cormorant+Infant" target="_blank">Cormorant Infant</a></li>
+<li>Cormorant Infant: minimalistic style which portrays harmony, lightness, space and balance.</li>
+<li><u>Letter-spacing:</u> To create more sense of space I added 1px letter spacing as default body styling, and and 4px for the headers.</li>
+<li><u>Font-style:</u> I played around with Uppercase styling (for headers) and Italics (for some paragraphs) to give it more fluidity.</li>
+</ul>
+
+<h3>Images and Icons</h3>
+<hr>
+<ul>
+<li>I chose an initial image as inspiration (Hero image displayed under Colors section), and from there chose other similar images. All the images have the same earthy tones, with a few pops of green. They are minimalistic, and convey the purpose of the website. It was important to use images for every service description section, so as to give visual aid of the service provided. These images were sourced by <a href="https://www.pexels.com/" target="_blank">Pexels.</a></li>
+<li>I used instantly recognisable <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.</li>
+</ul>
+
+
+
+
+
+
 
  <h2>Credits</h2>
     <ul>
@@ -125,7 +159,7 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
             <li>https://www.pexels.com/photo/nature-summer-texture-garden-7815537/</li>
             
             
-        </li>
+      
         
 </ul>
 

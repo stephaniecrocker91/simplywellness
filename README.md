@@ -1,8 +1,10 @@
 <h1>Simply Wellness: Worspace Wellness</h1>
 <hr>
+
+
 <h2>About the website:</h2>
 <hr>
-<p> <i>Simply wellness</i> is a website designed specifically to advertise <i>Workspace Wellness</i>.
+<p><i>Simply wellness</i> is a website designed specifically to advertise <i>Workspace Wellness</i>.
 It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace. </p>
 <h3>Target Audience:</h3>
 <hr>
@@ -15,6 +17,8 @@ It advertises an array of services (classes and workshop packages) available for
 <li>18+ ages.</li>
 </ul>
 <br>
+
+
 <h2>User Stories</h2>
 <hr>
  <uL>
@@ -25,9 +29,14 @@ It advertises an array of services (classes and workshop packages) available for
   <li>I want the services to look appealing.</li>
  </uL>
  <br>
- <h2>Strategy</h2>
+
+
+
+<h2>Strategy</h2>
 <hr>
 <p>Create an aesthetically pleasing, peaceful and harmonious site that invites the user to a world of wellness. Consistent styling for easy navigation using a mobile-first approach and then ensuring it displays flawlessly across all devices. Create a code that is clear and allows to update with ease.</p>
+
+
 <h2>Structure</h2>
 <hr>
 
@@ -45,6 +54,7 @@ It advertises an array of services (classes and workshop packages) available for
 <li>Contains aria-labels attached to links to make it user friendly and accesible.</li>
 </ul>
 <br>
+
 <h3>Footer</h3>
 <h4><em>Social Media Links</em></h4>
 <ul>
@@ -58,6 +68,7 @@ It advertises an array of services (classes and workshop packages) available for
 <li>Aria-labels on the social media links, to make it user friendly and accesible.</li>
 </ul>
 <br>
+
 <h3>Home Page - <em>index.html</em></h3>
 <p>The homepage consists of:</p>
 <ul>
@@ -68,6 +79,7 @@ It advertises an array of services (classes and workshop packages) available for
 <li>You can return to the homepage by clicking HOME or the LOGO on the Navigation bar.</li>
 </ul>
 <br>
+
 <h3>Our Services Page - <em>ourservices.html</em></h3>
 <p> Our services section is set up on another HTML page. It's aim is to describe in detail the services we provide. It is structured as follows:
 <ul>
@@ -82,11 +94,9 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li><u>An image:</u> that portrays the service to the user. </li>
 <li><u>A few paragraphs:</u> about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.</li>
 <li><u>A "Back to Top" link:</u> This hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.</li></ul>
-
 <br>
 
 <h3>Contact Us Page - contactform.html</h3>
-
 <p> The contact form section is also set up on another HTML page. The aim of this contact form, is for the user to contact us regarding interest. It consists of: </p>
 <ul>
 <li><u>A header:</u> "Contact Us", which clearly describes the purpose of this section.</li>
@@ -105,10 +115,14 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 
 <h2>Skeleton</h2>
 <hr>
+
 <h3>Wireframes</h3>
 <br>
+
+
 <h2>Surface</h2>
 <hr>
+
 <h3>Colors</h3>
 <hr>
 <img src="assets/images/collage.png" width="400px">
@@ -132,8 +146,10 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li>I used instantly recognisable <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.</li>
 </ul>
 
+
 <h2>Features</h2>
 <hr>
+
 <h3>Current features</h3>
 <ul>
 <li>Navigation bar directing to pages.</li>
@@ -145,11 +161,11 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 </ul>
 <li>Social Media links: Facebook, Instagram, Linekdin</li>
 </ul>
+
 <h3>Future features</h3>
 <ul>
 <li>A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.</li>
 </ul>
-
 <h2>Languages</h2>
 <hr>
 <ul>
@@ -169,14 +185,32 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 <li><a href="https://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
 </ul>
 
+<<h2>Testing</h2>
+<hr>
+<p>For testing I used a few sources</p>
+
+<h3>Tests</h3>
+<hr>
+<h4>HTML Validator</h4>
+<h5>Home Page - index.html</h5>
+<img src="assets/images/indexhtml-val.png">
+<ul>
+<li>Homepage came up with no errors.</li></ul>
+<h5>Our Services - ourservices.html</h5>
+<img src="assets/images/ourservices-val.png">
+<ol>
+<li>For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. </li>
+<li>Same as above.</li>
+<li>Debugged by solving first bug.</li>
+<li>Removed illegal character path (space) in file name. Not it is man-meditating-yellowhair.jpg</li>
+<li>Deleted stray div.</li>
+<li>Deleted stray div.</li>
+<li>Removed illegal character path (space) in file name. Not it is assets/images/pilates-lady.jpg</li>
+</ul>
 
 
 
-
-
-
-
- <h2>Credits</h2>
+<h2>Credits</h2>
     <ul>
         <li>NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/ </li>
         <li>HIIT webiste for benefits content:  https://www.healthline.com/nutrition/benefits-of-hiit#TOC_TITLE_HDR_6 https://www.medicalnewstoday.com/articles/327474#benefits</li>
@@ -194,12 +228,9 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
             <li>https://www.pexels.com/photo/person-touching-white-flowers-4883429/</li>
             <li>https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/</li>
             <li>https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/</li>
-            <li>https://www.pexels.com/photo/nature-summer-texture-garden-7815537/</li>
-            
-            
-      
-        
+            <li>https://www.pexels.com/photo/nature-summer-texture-garden-7815537/</li>      
 </ul>
+
 
 <h2>Debugging</h2>
 <p>I couldn't get my first style.css stylesheet to link up to my HTML. I tried solving it for a while, and then created another style2.css file. This one seemed to connect, so I deleted the initial one and replaced with the second.</p>

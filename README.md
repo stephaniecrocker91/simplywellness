@@ -321,11 +321,22 @@ OMG HELP ME KILL ME NOW
     ![](assets/images/educational.png)
 5.  I want the services to look appealing.
     *   Images throughout the website portray the services as inviting, inclusive and appealing.
-    ![](assets/images/image3.png) ![](assets/images/image1.png) ![](assets/images/image2.png) 
+    ![](assets/images/inclusive3.png) ![](assets/images/inclusive1.png) ![](assets/images/inclusive2.png) 
     * Use of language is inviting
 
 DEPLOYMENT:
 -----------
+
+This site was deployed to Github pages using the following steps:
+
+1. Go to the Github repository
+2. Clock on the Settings tab
+3. Go to Github Pages Section
+4. From thr source dropdown meny select Main branch
+5. Once this has been selected, provide the link to the completed website
+
+[Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
+
 
 * * *
 

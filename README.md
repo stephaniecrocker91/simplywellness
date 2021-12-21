@@ -209,7 +209,6 @@ FEATURES:
 *   A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.
 
 ## LANGUAGES:
-----------
 
 * * *
 

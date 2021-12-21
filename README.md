@@ -332,6 +332,11 @@ Responsive design:
 * Our services section: Images are still to the left of the text.
 ![](assets/images/large-screen.png)
 
+##### My large sccreen DISPLAY (19020 X 1200px):
+The Homepage image is cropped, and begins from her nose down (which was not initially intentional). I actually quite like it like this, so decided to keep it. I like the way it focuses on her smale, and her hands.
+
+![](assets/images/my-large-screen.png)
+
 
 
 #### Lighthouse testing

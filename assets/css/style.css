@@ -199,6 +199,7 @@ header a:hover {
     background-size: cover;
     background-position: center;
     height: 32rem;
+    margin-bottom: 4rem;
 
 }
 
@@ -273,16 +274,16 @@ footer a:hover {
 
 /* Media Queries */
 
-/*For iPad */
-
-
-@media screen and (min-width: 412px){ 
+@media screen and (max-width:320px) {
+    body {
+        font-size: 14px;
+    }
     
-        #packages {
-            top: 5rem;
+    h2 {
+        margin-top: 9rem;
+        margin-bottom:1rem;
     }
-
-    }
+}
 
 
 @media screen and (min-width: 600px) {

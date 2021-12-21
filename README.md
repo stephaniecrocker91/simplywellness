@@ -299,8 +299,44 @@ And finally...
 * The checkboxes in the form is optional as intended. Form can be submitted without them, as long as text input fields are filled out.
 * The site has responsive deisgn, allowing the webste and it's features to be fully displayed (visible) on all display sized: phone, tablets, laptops, larger screens.
 
+Responsive design:
+##### Phone Display
+* I took a mobile first design approach, so the website runs very smoothly from a mobile screen. 
+* The navigation bar and footer is always dislplayed, large enough to click yet not distracting from its content. 
+* The initial homescreen is welcoming, displaying the image upon loading on, and can be easily scrolled down to view further site information.
+* The contact form is of an appropriate size, and easily clockable to input the field text/ tick checkboxes.
+###### BUGS & FIXES: 
+* Initially the send button was too close to the social media links, but upon adding margin-bottom: 4rem to the form section, the problem was fixed.
+* Even though the first image presented nicely on MY mobile screen, when I checked the amiresponsive site the nav bar was too big and the image was chopped. I improved this by making font smaller for maxwidth=320px mobile screens (font=14px), and decreased the margin-top and margin-bottom for the h2 headers. I wanted the Image to be more visible. It improved it, but if I would like to fix this in the future.
 
-OMG HELP ME KILL ME NOW
+![](assets/images/mobile-homepage2.png) ![](assets/images/mobile-homepage1.png)
+
+
+##### Tablet Display
+* The tablet displays nicely on all pages. 
+* The homepage image and most of the introductory text is displayed instantly. 
+* Nav bar is of a good size, links to all pages are eaisly clickable.
+* Our services section: Images are still displaying on top and text below.
+![](assets/images/tablet-screen.png)
+
+##### Laptop Display
+* The laptop also displays nicely on all pages. 
+* Nav bar is of a an appopriate size.
+* The homepage image and most of the introductory text is displayed instantly.
+* Our services section: Images are now to the left of the text. It is more visually pleasing for this display width.
+![](assets/images/laptop-screen.png)
+
+##### Larger Screens Display
+* The large screens also displays nicely on all pages. 
+* Nav bar is of a an appopriate size.
+* The homepage image and all of the introductory text is displayed instantly.
+* Our services section: Images are still to the left of the text.
+![](assets/images/large-screen.png)
+
+=======================
+
+#### Lighthouse testing
+
 =======================
 
 #### Testing User Stories
@@ -349,6 +385,8 @@ OMG HELP ME KILL ME NOW
 DEPLOYMENT:
 -----------
 
+### GitHub Page
+
 This site was deployed to Github pages using the following steps:
 
 1. Go to the Github repository
@@ -359,12 +397,8 @@ This site was deployed to Github pages using the following steps:
 
 [Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
 
-
 * * *
 
-### GitHub Pages
-
-* * *
 
 ### Forking The GitHub Repository
 

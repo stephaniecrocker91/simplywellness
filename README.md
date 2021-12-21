@@ -8,6 +8,8 @@ ABOUT THE WEBSITE:
 
 * * *
 
+[Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
+
 _Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
 ![](assets/images/responsive-design.png)
@@ -67,6 +69,9 @@ STRUCTURE:
 *   The CSS styling makes it contrasting to the rest of the page, standing out.
 *   Contains aria-labels attached to links to make it user friendly and accesible.
 
+![](assets/images/navbar.png)
+
+
   
 
 #### _Social Media Links_
@@ -81,6 +86,8 @@ STRUCTURE:
 *   The hyperlinks have font-awesome images clearly displaying each social media type.
 *   The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.
 *   Aria-labels on the social media links, to make it user friendly and accesible.
+![](assets/images/footer.png)
+
 
   
 
@@ -95,6 +102,7 @@ The homepage consists of:
 *   A further sub-header within a pink box that goes into further detail: the aim of the services provided, and how they are delivered. It is easily readable: font is clear and the background-color is contrasting to the background image of the section.
 *   Home page is minimalistic, clear and concise.
 *   You can return to the homepage by clicking HOME or the LOGO on the Navigation bar.
+![](assets/images/homepage.png)
 
   
 
@@ -108,6 +116,7 @@ Our services section is set up on another HTML page. It's aim is to describe in 
 *   A sub-header: lists the specific services we offer: Meditation, Yoga, Pilates, Hiit and Nutrition. Each service listed hyperlinks to the section of the page with a more detailed description of that particular service.
 *   A small paragraph: in a white box detailing how the service packages.
 *   This first section has an image-background that is easy on the eye, subtle and allows the text over it to be easily read.
+![](assets/images/ourservices-1.png)
 
 Each one of the hyperlinks at the top of this page take the user to a sub-section containing:
 
@@ -115,6 +124,7 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 *   An image: that portrays the service to the user.
 *   A few paragraphs: about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.
 *   A "Back to Top" link: This hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.
+ ![](assets/images/clear-services2.png)
 
   
 
@@ -126,14 +136,15 @@ The contact form section is also set up on another HTML page. The aim of this co
 
 *   A header: "Contact Us", which clearly describes the purpose of this section.
 *   A background image: that is aesthetically pleasing and makes the form stand out.
+* A header for the form: Enquire further:
 *   The form:Containing
-    *   Required text input fields (Name, Surname, Email and Contact number).
-    *   Paragraph explaining the next section is optional.
+    *   Required text input field boxes and labels (Name, Surname, Email and Contact number).
+    *   Paragraph explaining the next checkbox section is optional.
     *   Optional checkboxes for interested services (Meditation, Yoga, Pilates, Hiit, Nutrition).
     *   A Send! button which submits the form.
     *   Please note: all input fields (except for the checkbox) are required to be filled out to be able to submit the form.
 *   The contact form is simple, easy to read, and enphasizes the services available to the user.
-
+![](assets/images/contact-us-page.png)
   
 
 ## SKELETON:
@@ -274,9 +285,20 @@ And finally...
 
 And finally...
 
-![](assets/images/css-val2.png){width: 50px}
+![](assets/images/css-val2.png)
 
-#### Testing sheet
+
+#### Manual testing 
+
+* Social media links in footer linking to external sites work, and open the site in a new tab.
+* Links to other pages in navigation bar work in all pages, and link to the correct page.
+* Links to different sections of a page work correctly, and jump to the correct section of the page allowing everything to be fully visible to the user.
+* All images and icons load properly and are fully visible to the user.
+* Nav bar and footer is fixed, always displayed on the screen and fully visible.
+* The Contact Form required text input (name, surname, email, number) and of the correct input to be submitted.
+* The checkboxes in the form is optional as intended. Form can be submitted without them, as long as text input fields are filled out.
+* The site has responsive deisgn, allowing the webste and it's features to be fully displayed (visible) on all display sized: phone, tablets, laptops, larger screens.
+
 
 OMG HELP ME KILL ME NOW
 =======================

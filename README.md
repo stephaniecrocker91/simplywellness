@@ -154,6 +154,18 @@ The contact form section is also set up on another HTML page. The aim of this co
 -----------
 
 ### WIREFRAMES:
+* I began deisgning from a mobile display. I wanted my nav and footer to always be displayed. I wanted a homepage image to load up immediately. I wanted the form section to have a background image.
+
+![](assets/images/wireframe-mobile1.png)
+![](assets/images/wireframe-mobile2.png)
+![](assets/images/wireframe-mobile3.png)
+![](assets/images/wireframe-mobile4.png)
+
+* For the wide screen display, I had a rough idea of how I wnated the Homepage and services section displayed. I wanted the image in the home page to be large and inviting, with introduction to the site below. I wanted the services section to be layed out with HEADER, Image to the left and paragraph to the right.
+
+![](assets/images/wireframe-laptop1.png)
+![](assets/images/wireframe-laptop2.png)
+
 
 -------------  
 
@@ -435,16 +447,13 @@ CREDITS:
 * * *
 
 ### Content
-* A lot of the content/ideas come from a previous website I had (which is a wix site) and a site called Stretch in the City
-https://www.simplywellnesswithsteph.com/
-https://stretchingthecity.com/corporate-wellbeing/nutrition/
-
-* Services content:
-    * NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/
-    * HIIT webiste: for benefits of HIIT: https://www.healthline.com/nutrition/benefits-of-hiit#TOC\_TITLE\_HDR\_6 https://www.medicalnewstoday.com/articles/327474#benefits
-    * Betterhealth Website: benefits of pilates: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits
-    * Stretch in the city website: Benefits of nutrition: https://stretchingthecity.com/corporate-wellbeing/nutrition/ 
-    * Medical News Website: Benefits of healthy nutrition: https://www.medicalnewstoday.com/articles/322268
+* A lot of the content/website language came from a previous website I had [Simply Wellness with Steph](https://www.simplywellnesswithsteph.com/), created by Wix.
+* Services educational content:
+    * [NHS Website: benefits of yoga](https://www.nhs.uk/live-well/exercise/guide-to-yoga/)
+    * [HIIT webiste: for benefits of HIIT](https://www.healthline.com/nutrition/benefits-of-hiit#TOC\_TITLE\_HDR\_6)
+    * [Betterhealth Website: benefits of pilates](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits)
+    * [Stretch in the city website: Benefits of nutrition](https://stretchingthecity.com/corporate-wellbeing/nutrition/) 
+    * [Medical News Website: Benefits of healthy nutrition](https://www.medicalnewstoday.com/articles/322268)
 *  I used part of the Love Running Project Code as a template for the Navigation bar: structured in unordered lists and having the logo also be an anchor element.  
 ![](assets/images/love-running-nav-code.png) 
 * I also used the fixed CSS styling element for the nav bar and social media links (as done in the love running).

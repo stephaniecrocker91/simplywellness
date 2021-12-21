@@ -335,6 +335,13 @@ Responsive design:
 
 
 #### Lighthouse testing
+* Initially, with the lighhouse testing the performance read 57%. I asked the tutors at code Instutute, and they mentioned that reducing my Hero Image would help. 
+* The Best Practices was 93%, and lighthouse suggested I add rel=noopener to my social media links.
+![](assets/images/lighthouse1.png)
+* Now: 98% for Peformance
+* 100% Best practices
+![](assets/images/lighthouse2.png)
+
 
 
 #### Testing User Stories

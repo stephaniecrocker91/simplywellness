@@ -9,6 +9,8 @@ ABOUT THE WEBSITE:
 * * *
 
 [Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
+[GitHub Repository](https://github.com/stephaniecrocker91/simplywellness/)
+
 
 _Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
@@ -227,6 +229,8 @@ FEATURES:
 *   [Coolors](https://coolors.co/)
 *   [Pexels](https://www.pexels.com/)
 *   [Stack Overflow](https://stackoverflow.com/)
+*   [Code beautify](https://codebeautify.org/html-to-markdown)
+*   [Compress Jpeg](https://compressjpeg.com/)
 
 ## TESTING, BUGS & FIXES:
 
@@ -413,30 +417,55 @@ This site was deployed to Github pages using the following steps:
 ### Forking The GitHub Repository
 
 * * *
+You can Fork the Repository. This makes a copy of the original repository on our Github account so you can make changes without affecting the original repository.
+1. Log into GitHub and locate the GitHub repository you want.
+2. Click on the "Fork" button which is located in the top right corner.
+3. You will now have a copy of the original repository in your GitHub account.
 
 ### Cloning the Project.
-
 * * *
+1. Log into GitHub and locate the GitHub repository you want.
+2. Under the repository name, click "Code" button which will come up with a dropdown menu.
+3. Where it says Clone, copy the link below.
+
 
 CREDITS:
 --------
 
 * * *
 
-*   NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/
-*   HIIT webiste for benefits content: https://www.healthline.com/nutrition/benefits-of-hiit#TOC\_TITLE\_HDR\_6 https://www.medicalnewstoday.com/articles/327474#benefits
-*   Pilates benefits: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits
-*   Nutrition benefits content: https://stretchingthecity.com/corporate-wellbeing/nutrition/ , https://www.medicalnewstoday.com/articles/322268
-*   Navigation bar and footer were structured in an unordered list as in the Love Running Project, and inlcude Font Awesome Icons.
-*   Font awesome: https://fontawesome.com/ (Used for social media anchor links)
-*   Used the Love Running Project Contact Form section as inspiration for my contact form. Used snippets of the code to place a background-image and a box over it with the contact section details.
-*   Birme for cropping IMAGES:https://www.birme.net/?target\_width=2500&target\_height=1500
-*   Images from: https://www.pexels.com/ Credits:
-*   https://www.pexels.com/photo/fashion-man-people-art-4662438/
-*   https://www.pexels.com/photo/pizza-fashion-couple-woman-6443467/
-*   https://www.pexels.com/photo/young-obese-female-doing-bending-exercise-in-white-studio-6975385/
-*   https://www.pexels.com/photo/green-vegetable-on-white-ceramic-plate-4117644/
-*   https://www.pexels.com/photo/person-touching-white-flowers-4883429/
-*   https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/
-*   https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/
-*   https://www.pexels.com/photo/nature-summer-texture-garden-7815537/
+### Content
+* A lot of the content/ideas come from a previous website I had (which is a wix site) and a site called Stretch in the City
+https://www.simplywellnesswithsteph.com/
+https://stretchingthecity.com/corporate-wellbeing/nutrition/
+
+* Services content:
+    * NHS Website: benefits of yoga: https://www.nhs.uk/live-well/exercise/guide-to-yoga/
+    * HIIT webiste: for benefits of HIIT: https://www.healthline.com/nutrition/benefits-of-hiit#TOC\_TITLE\_HDR\_6 https://www.medicalnewstoday.com/articles/327474#benefits
+    * Betterhealth Website: benefits of pilates: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pilates-and-yoga-health-benefits
+    * Stretch in the city website: Benefits of nutrition: https://stretchingthecity.com/corporate-wellbeing/nutrition/ 
+    * Medical News Website: Benefits of healthy nutrition: https://www.medicalnewstoday.com/articles/322268
+*  I used part of the Love Running Project Code as a template for the Navigation bar: structured in unordered lists and having the logo also be an anchor element.  
+![](assets/images/love-running-nav-code.png) 
+* I also used the fixed CSS styling element for the nav bar and social media links (as done in the love running).
+* Was inspired by the Love Running project idea of using a background image and a background color for the form.
+![](assets/images/love-running-form.png) 
+
+* Images & Icons:
+    * [Font Awesome](https://fontawesome.com/) for social media anchor links.
+        *   [Instagram icon](https://fontawesome.com/v5.15/icons/instagram?style=brands)
+        *   [Likedin Icon](https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=linkedin)
+        *   [Facebook icon](https://fontawesome.com/v5.15/icons/facebook?style=brands)
+    * [Pexels](https://www.pexels.com/)
+        *   [Hero Image](https://www.pexels.com/photo/green-vegetable-on-white-ceramic-plate-4117644/)
+        *   [Our Services background Image](https://www.pexels.com/photo/nature-summer-texture-garden-7815537/)
+        *   [Our Services: Meditation Man Image](https://www.pexels.com/photo/man-in-white-pants-sitting-on-white-yoga-mat-7113607/)
+        *   [Our Services: Yoga Man Image](https://www.pexels.com/photo/fashion-man-people-art-4662438/)
+        *   [Our services: Pilates Woman Image](https://www.pexels.com/photo/young-obese-female-doing-bending-exercise-in-white-studio-6975385/)
+        *   [Our Services: HIIT Jumping rope Image](https://www.pexels.com/photo/woman-using-a-jump-rope-8032787/)
+        *   [Our Services: Nutrition Image](https://www.pexels.com/photo/green-vegetable-on-white-ceramic-plate-4117644/)
+        *   [Form Section Background Image](https://www.pexels.com/photo/person-touching-white-flowers-4883429/)
+
+
+
+

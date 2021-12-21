@@ -208,7 +208,7 @@ FEATURES:
 
 *   A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.
 
-LANGUAGES:
+## LANGUAGES:
 ----------
 
 * * *
@@ -216,8 +216,8 @@ LANGUAGES:
 *   HTML5
 *   CSS
 
-OTHER TECHNOLOGIES, FRAMEWORKS & LIBRARIES:
--------------------------------------------
+## OTHER TECHNOLOGIES, FRAMEWORKS & LIBRARIES:
+
 
 * * *
 
@@ -229,8 +229,8 @@ OTHER TECHNOLOGIES, FRAMEWORKS & LIBRARIES:
 *   [Pexels](https://www.pexels.com/)
 *   [Stack Overflow](https://stackoverflow.com/)
 
-TESTING, BUGS & FIXES:
-----------------------
+## TESTING, BUGS & FIXES:
+
 
 * * *
 
@@ -333,11 +333,10 @@ Responsive design:
 * Our services section: Images are still to the left of the text.
 ![](assets/images/large-screen.png)
 
-=======================
+
 
 #### Lighthouse testing
 
-=======================
 
 #### Testing User Stories
 
@@ -382,8 +381,8 @@ Responsive design:
     ![](assets/images/inclusive3.png) ![](assets/images/inclusive1.png) ![](assets/images/inclusive2.png) 
     * Use of language is inviting
 
-DEPLOYMENT:
------------
+## DEPLOYMENT:
+
 
 ### GitHub Page
 

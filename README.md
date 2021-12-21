@@ -173,6 +173,9 @@ The contact form section is also set up on another HTML page. The aim of this co
 --------
 
 * * *
+I created a simple collage with the images, fonts and palettes that initially inspired me. I moved on from there.
+![](assets/images/initial-inspiration.png)
+
 
 ### Colors
 

@@ -9,10 +9,12 @@ ABOUT THE WEBSITE:
 * * *
 
 [Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
+
+
 [GitHub Repository](https://github.com/stephaniecrocker91/simplywellness/)
 
 
-_Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices including: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
+_Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices both virtual and in person. Services include: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
 ![](assets/images/responsive-design.png)
 
@@ -27,7 +29,7 @@ It's target is to convince businesses to purchase these bespoke packages with th
 *   Human resource managers.
 *   Business employees.
 *   Wellness enthusiasts.
-*   18+ ages.
+*   Ages 18+ 
 
   
 
@@ -38,7 +40,7 @@ USER STORIES:
 
 1.  Easy to navigate the site.
 2.  Clear as to what services are provided and how.
-3.  Insightful: why are these services benefitial to my employees?
+3.  Insightful: why are these services benefitial to employees?
 4.  Educational: I want to learn something about the services after reading the content of this site.
 5.  I want the services to look appealing.
 
@@ -66,12 +68,12 @@ STRUCTURE:
     *   Home
     *   Our Services
     *   Contact Us
-*   The logo also contains a hyperlink to the index.html.
+*   The logo contains a hyperlink to the index.html.
 *   As you scroll down, the header: navigation bar & logo is fixed: _always_ at the top of the page for easy navigation through site.
 *   The CSS styling makes it contrasting to the rest of the page, standing out.
 *   Contains aria-labels attached to links to make it user friendly and accesible.
 
-![](assets/images/navbar.png)
+<img src="assets/images/navbar.png" width="500px">
 
 
   
@@ -80,15 +82,16 @@ STRUCTURE:
 
 *   The footer is also clearly displayed at the bottom of each HTML page and contains links to the business social media pages:
 
-*   Instagram
-*   Facebook
-*   Linkedin
+    *   Instagram
+    *   Facebook
+    *   Linkedin
 
-*   It is also fixed: always at the bottom of the page so as to be easily accesible to the user. It opens in a new tab.
+*   It is fixed: always at the bottom of the page so as to be easily accesible to the user. It opens in a new tab with _blank.
 *   The hyperlinks have font-awesome images clearly displaying each social media type.
 *   The images are large enough to be instantly recognisable, and have been styled in CSS to match the colors of the web page.
 *   Aria-labels on the social media links, to make it user friendly and accesible.
-![](assets/images/footer.png)
+
+<img src="assets/images/footer.png" width="500px">
 
 
   
@@ -104,7 +107,11 @@ The homepage consists of:
 *   A further sub-header within a pink box that goes into further detail: the aim of the services provided, and how they are delivered. It is easily readable: font is clear and the background-color is contrasting to the background image of the section.
 *   Home page is minimalistic, clear and concise.
 *   You can return to the homepage by clicking HOME or the LOGO on the Navigation bar.
-![](assets/images/homepage.png)
+
+<img src="assets/images/homepage.png" width="500px">
+
+
+
 
   
 
@@ -118,15 +125,17 @@ Our services section is set up on another HTML page. It's aim is to describe in 
 *   A sub-header: lists the specific services we offer: Meditation, Yoga, Pilates, Hiit and Nutrition. Each service listed hyperlinks to the section of the page with a more detailed description of that particular service.
 *   A small paragraph: in a white box detailing how the service packages.
 *   This first section has an image-background that is easy on the eye, subtle and allows the text over it to be easily read.
-![](assets/images/ourservices-1.png)
+
+<img src="assets/images/ourservices-1.png" width="500px">
 
 Each one of the hyperlinks at the top of this page take the user to a sub-section containing:
 
-*   A header: with the service name (E.g: YOGA). The background color is dusty pink, and the font is uppercase. It makes for a clear distinction between the different services sections.
+*   A header: with the service name (E.g: MINDFULNESS & MEDITATION). The background color is dusty pink, and the font is uppercase. It makes for a clear distinction between the different services sections.
 *   An image: that portrays the service to the user.
 *   A few paragraphs: about the service and it's benefits. On small screens (mobile and some tablets) the paragraph is directly below the image. On larger displays, the paragraphs are to the right of the image.
 *   A "Back to Top" link: This hyperlink which takes the user back to the top of the page. It is italicized and underlined so as to stand out.
- ![](assets/images/clear-services2.png)
+
+<img src="assets/images/clear-services2.png" width="500px">
 
   
 
@@ -146,7 +155,7 @@ The contact form section is also set up on another HTML page. The aim of this co
     *   A Send! button which submits the form.
     *   Please note: all input fields (except for the checkbox) are required to be filled out to be able to submit the form.
 *   The contact form is simple, easy to read, and enphasizes the services available to the user.
-![](assets/images/contact-us-page.png)
+<img src="assets/images/contact-us-page.png" width="500px">
   
 
 ## SKELETON:
@@ -156,15 +165,15 @@ The contact form section is also set up on another HTML page. The aim of this co
 ### WIREFRAMES:
 * I began deisgning from a mobile display. I wanted my nav and footer to always be displayed. I wanted a homepage image to load up immediately. I wanted the form section to have a background image.
 
-![](assets/images/wireframe-mobile1.png)
-![](assets/images/wireframe-mobile2.png)
-![](assets/images/wireframe-mobile3.png)
-![](assets/images/wireframe-mobile4.png)
+<img src="assets/images/wireframe-mobile1.png" width="200px">
+<img src="assets/images/wireframe-mobile2.png" width="200px">
+<img src="assets/images/wireframe-mobile3.png" width="200px">
+<img src="assets/images/wireframe-mobile4.png" width="200px">
 
 * For the wide screen display, I had a rough idea of how I wnated the Homepage and services section displayed. I wanted the image in the home page to be large and inviting, with introduction to the site below. I wanted the services section to be layed out with HEADER, Image to the left and paragraph to the right.
 
-![](assets/images/wireframe-laptop1.png)
-![](assets/images/wireframe-laptop2.png)
+<img src="assets/images/wireframe-laptop1.png" width="300px">
+<img src="assets/images/wireframe-laptop2.png" width="300px">
 
 
 -------------  
@@ -173,36 +182,35 @@ The contact form section is also set up on another HTML page. The aim of this co
 --------
 
 * * *
-I created a simple collage with the images, fonts and palettes that initially inspired me. I moved on from there.
-![](assets/images/initial-inspiration.png)
+Before starting, I created a very basic collage with the images, fonts and palettes that initially inspired me. 
+<img src="assets/images/initial-inspiration.png" width="500px">
 
 
 ### Colors
 
 * * *
 
-![](assets/images/collage.png)
+<img src="assets/images/collage.png" width="500px">
 
-This was the image that inspired the colors for my webisite. I picked warm, earthy tones that contribute to the sites purpose. I added a few greens in the images, to give it more vibrancy.
+This was the image that inspired the colors for my webisite. I wanted to work with warm, earthy tones that contribute to the sites purpose. I added a few greens in the images, to give it more vibrancy.
 
-In picked the following colors to be used as font color and background-color throughout the site.
-
-![](assets/images/palette.png)
+I then picked the following colors to be used in defferent elements on the site: font color and background-color.
+<img src="assets/images/palette.png" width="500px">
 
 ### Typography
 
 * * *
 
-*   I initially wanted to combine [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant) and [Julius Sans One](https://fonts.google.com/specimen/Julius+Sans+One) (for headers mostly), but after testing I preferred keeping it all [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant)
+*   I initially wanted to combine [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant) for main text and [Julius Sans One](https://fonts.google.com/specimen/Julius+Sans+One) for headers, but after testing I preferred keeping it all [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant)
 *   Cormorant Infant: minimalistic style which portrays harmony, lightness, space and balance.
 *   Letter-spacing: To create more sense of space I added 1px letter spacing as default body styling, and and 4px for the headers.
-*   Font-style: I played around with Uppercase styling (for headers) and Italics (for some paragraphs) to give it more fluidity.
+*   Font-style: I played around with Uppercase styling (for headers) and Italics (for some paragraphs) to add a sense of dinamics to the site.
 
 ### Images and Icons
 
 * * *
 
-*   I chose an initial image as inspiration (Hero image displayed under Colors section), and from there chose other similar images. All the images have the same earthy tones, with a few pops of green. They are minimalistic, and convey the purpose of the website. It was important to use images for every service description section, so as to give visual aid of the service provided. These images were sourced by [Pexels.](https://www.pexels.com/)
+*   I chose an initial image as inspiration (Hero image displayed under Colors section), and from there chose other similar images. All these images have the same earthy tones, with a few pops of green. They are minimalistic, and convey the purpose of the website. It was important to use images for every service description section, so as to give visual aid of the service provided. These images were sourced by [Pexels.](https://www.pexels.com/)
 *   I used instantly recognisable [Font Awesome](https://fontawesome.com/) icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.
 
 FEATURES:
@@ -213,11 +221,11 @@ FEATURES:
 ### Current features
 
 *   Navigation bar directing to pages.
-*   Pages
+*   Pages: Homepage
 
-*   Homepage: Introduction to website
-*   Our services Page: Hyperlinks to different services on the page, "Back to top" hyperlink under every service section.
-*   Contact Us Page: Containing a contact us form when the user must provide contact details, and can _optionally_ tick the services of interest.
+    *   Homepage: Introduction to website
+    *   Our services Page: Hyperlinks to different services on the page, "Back to top" hyperlink under every service section.
+    *   Contact Us Page: Containing a contact us form when the user must provide contact details, and can _optionally_ tick the services of interest.
 
 *   Social Media links: Facebook, Instagram, Linekdin
 
@@ -262,13 +270,13 @@ For testing I used the following sources:
 
 ##### Home Page - index.html
 
-![](assets/images/indexhtml-val.png)
+<img src="assets/images/indexhtml-val.png" width="600px">
 
 *   Homepage came up with no errors.
 
 ##### Our Services - ourservices.html
 
-![](assets/images/ourservices-val.png)
+<img src="assets/images/ourservices-val.png" width="600px">
 
 1.  For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. I re-tested and there was still an error: the h3 wrapped around the ul. Remved this and then had to restyle CSS again.
 2.  Same as above.
@@ -278,23 +286,24 @@ For testing I used the following sources:
 6.  Deleted stray div.
 7.  Removed illegal character path (space) in file name. Now it is assets/images/pilates-lady.jpg
 
-![](assets/images/ourservices-val-2.png)
+<img src="assets/images/ourservices-val-2.png" width="600px">
+
 
 1.  Added a h3 to the form section for semangtic clarity.
 
 And finally...
 
-![](assets/images/ourservices-val-3.png)
+<img src="assets/images/ourservices-val-3.png" width="600px">
 
 ##### Contact Us - contactform.html
 
-![](assets/images/contactform-val.png)
+<img src="assets/images/contactform-val.png" width="600px">
 
 *   Contact us page came up with no errors.
 
 #### [CSS Validator- Jigsaw](https://jigsaw.w3.org/css-validator/)
 
-![](assets/images/css-val1.png)
+<img src="assets/images/css-val1.png" width="600px">
 
 1.  Wrong syntax: Removed the px from 300px.
 2.  Wrong syntax: Removed the unnecesary coma.
@@ -303,7 +312,7 @@ And finally...
 
 And finally...
 
-![](assets/images/css-val2.png)
+<img src="assets/images/css-val2.png" width="600px">
 
 
 #### Manual testing 
@@ -327,7 +336,9 @@ Responsive design:
 * Initially the send button was too close to the social media links, but upon adding margin-bottom: 4rem to the form section, the problem was fixed.
 * Even though the first image presented nicely on MY mobile screen, when I checked the amiresponsive site the nav bar was too big and the image was chopped. I improved this by making font smaller for maxwidth=320px mobile screens (font=14px), and decreased the margin-top and margin-bottom for the h2 headers. I wanted the Image to be more visible. It improved it, but if I would like to fix this in the future.
 
-![](assets/images/mobile-homepage2.png) ![](assets/images/mobile-homepage1.png)
+<img src="assets/images/mobile-homepage2.png" width="200px">
+<img src="assets/images/mobile-homepage1.png" width="180px">
+
 
 
 ##### Tablet Display
@@ -335,36 +346,44 @@ Responsive design:
 * The homepage image and most of the introductory text is displayed instantly. 
 * Nav bar is of a good size, links to all pages are eaisly clickable.
 * Our services section: Images are still displaying on top and text below.
-![](assets/images/tablet-screen.png)
+
+<img src="assets/images/tablet-screen.png" width="400px">
 
 ##### Laptop Display
 * The laptop also displays nicely on all pages. 
 * Nav bar is of a an appopriate size.
 * The homepage image and most of the introductory text is displayed instantly.
 * Our services section: Images are now to the left of the text. It is more visually pleasing for this display width.
-![](assets/images/laptop-screen.png)
+
+<img src="assets/images/laptop-screen.png" width="600px">
 
 ##### Larger Screens Display
 * The large screens also displays nicely on all pages. 
 * Nav bar is of a an appopriate size.
 * The homepage image and all of the introductory text is displayed instantly.
 * Our services section: Images are still to the left of the text.
-![](assets/images/large-screen.png)
+
+<img src="assets/images/large-screen.png" width="600px">
+
 
 ##### My large sccreen DISPLAY (19020 X 1200px):
 The Homepage image is cropped, and begins from her nose down (which was not initially intentional). I actually quite like it like this, so decided to keep it. I like the way it focuses on her smale, and her hands.
 
-![](assets/images/my-large-screen.png)
+<img src="assets/images/my-large-screen.png" width="600px">
 
 
 
 #### Lighthouse testing
 * Initially, with the lighhouse testing the performance read 57%. I asked the tutors at code Instutute, and they mentioned that reducing my Hero Image would help. 
 * The Best Practices was 93%, and lighthouse suggested I add rel=noopener to my social media links.
-![](assets/images/lighthouse1.png)
+
+<img src="assets/images/lighthouse1.png" width="300px">
+
 * Now: 98% for Peformance
 * 100% Best practices
-![](assets/images/lighthouse2.png)
+
+<img src="assets/images/lighthouse2.png" width="300px">
+
 
 
 
@@ -372,43 +391,66 @@ The Homepage image is cropped, and begins from her nose down (which was not init
 
 1.  Easy to navigate the site.
     *   Nav bar is always at the top of the menu, and easily directs you to different pages.
-    ![](assets/images/navbar.png)
-
+    
+    <img src="assets/images/navbar.png" width="600px">
+    
+   
     * Back to top buttons: underneath each long text section to take you back to top.
 
-    ![](assets/images/back-to-top.png)
-
+    <img src="assets/images/back-to-top.png" width="100px">
+    
+    
     * Logo will take you back to home page.
 
-    ![](assets/images/logo.png)
+    <img src="assets/images/logo.png" width="600px">
+    
+    
     * Social media links fixed at the bottom of the site, to easily navigate to other pages. they open in a new tab.
     
-
-    ![](assets/images/footer.png)
+    <img src="assets/images/footer.png" width="600px">
+    
 2.  Clear as to what services are provided and how.
+    
+    
     *   Our services section has an initial breakdown describing each service provided. It is clear and concise.
 
-    ![](assets/images/clear-services3.png)
+    <img src="assets/images/clear-services3.png" width="500px">
+    
+    
     * Following, there is a description of the type of packages available.
 
-    ![](assets/images/clear-services1.png)
+    <img src="assets/images/clear-services1.png" width="300px">
+    
+    
     * Further down, each service is described by: header, an image portraying the service and a few paragraphs describing the service and its benefits.
 
-    ![](assets/images/clear-services2.png)
+
+    <img src="assets/images/clear-services2.png" width="300px">
+
 3.  Insightful: why are these services benefitial to my employees?
     *   Home page subheader describes immediate the benefits of these wellness services: Boost productivity & wellbeing.
 
-    ![](assets/images/incentive.png)
+
+    <img src="assets/images/incentive.png" width="300px">
+
     * Each service description section describes the benefits of these services to both employer and employee.
 
-    ![](assets/images/benefits-service.png)
+
+    <img src="assets/images/benefits-service.png" width="300px">
+
 4.  Educational: I want to learn something about the services after reading the content of this site.
     *   The Our Services section goes into details about each services: content, health and psychological benefits and structure.
 
-    ![](assets/images/educational.png)
+    <img src="assets/images/educational.png" width="300px">
+
 5.  I want the services to look appealing.
     *   Images throughout the website portray the services as inviting, inclusive and appealing.
-    ![](assets/images/inclusive3.png) ![](assets/images/inclusive1.png) ![](assets/images/inclusive2.png) 
+
+    <img src="assets/images/inclusive3.png" width="200px">
+    <img src="assets/images/inclusive1.png" width="200px">
+    <img src="assets/images/inclusive2.png" width="200px">
+
+    
     * Use of language is inviting
 
 ## DEPLOYMENT:

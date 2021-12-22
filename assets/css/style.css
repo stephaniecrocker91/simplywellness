@@ -274,15 +274,24 @@ footer a:hover {
 
 /* Media Queries */
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:363px) {
     body {
         font-size: 14px;
     }
     
     h2 {
-        margin-top: 9rem;
+        margin-top: 11rem;
         margin-bottom:1rem;
     }
+
+    .service h3 {
+        margin-top: 2rem;
+    }
+
+    #packages {
+        max-width:40vw;
+    }
+   
 }
 
 

@@ -6,7 +6,7 @@ Simply Wellness: Workspace Wellness
 ABOUT THE WEBSITE:
 ------------------
 
-* * *
+* * * 
 
 [Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
 
@@ -16,7 +16,10 @@ ABOUT THE WEBSITE:
 
 _Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices both virtual and in person. Services include: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
-![](assets/images/responsive-design.png)
+
+<img src="assets/images/responsive-design.png" width="700px">
+
+* * * 
 
 
 ## TARGET AUDIENCE:
@@ -44,7 +47,8 @@ USER STORIES:
 4.  Educational: I want to learn something about the services after reading the content of this site.
 5.  I want the services to look appealing.
 
-  
+* * * 
+
 
 STRAGETY:
 ---------
@@ -52,6 +56,8 @@ STRAGETY:
 * * *
 
 Create an aesthetically pleasing, peaceful and harmonious site that invites the user to a world of wellness. Consistent styling for easy navigation using a mobile-first approach and then ensuring it displays flawlessly across all devices. Create a code that is clear and allows to update with ease.
+
+* * * 
 
 STRUCTURE:
 ----------
@@ -76,7 +82,7 @@ STRUCTURE:
 <img src="assets/images/navbar.png" width="500px">
 
 
-  
+ * * *  
 
 #### _Social Media Links_
 
@@ -94,7 +100,7 @@ STRUCTURE:
 <img src="assets/images/footer.png" width="500px">
 
 
-  
+* * * 
 
 ### Home Page - _index.html_
 
@@ -110,11 +116,8 @@ The homepage consists of:
 
 <img src="assets/images/homepage.png" width="500px">
 
-
-
-
+* * * 
   
-
 ### Our Services Page - _ourservices.html_
 
 * * *
@@ -137,7 +140,7 @@ Each one of the hyperlinks at the top of this page take the user to a sub-sectio
 
 <img src="assets/images/clear-services2.png" width="500px">
 
-  
+* * *   
 
 ### Contact Us Page - contactform.html
 
@@ -157,6 +160,7 @@ The contact form section is also set up on another HTML page. The aim of this co
 *   The contact form is simple, easy to read, and enphasizes the services available to the user.
 <img src="assets/images/contact-us-page.png" width="500px">
   
+* * * 
 
 ## SKELETON:
 
@@ -176,12 +180,12 @@ The contact form section is also set up on another HTML page. The aim of this co
 <img src="assets/images/wireframe-laptop2.png" width="300px">
 
 
--------------  
+* * * 
 
 ## SURFACE:
---------
 
 * * *
+
 Before starting, I created a very basic collage with the images, fonts and palettes that initially inspired me. 
 <img src="assets/images/initial-inspiration.png" width="500px">
 
@@ -196,6 +200,8 @@ This was the image that inspired the colors for my webisite. I wanted to work wi
 
 I then picked the following colors to be used in defferent elements on the site: font color and background-color.
 <img src="assets/images/palette.png" width="500px">
+
+* * * 
 
 ### Typography
 
@@ -213,6 +219,8 @@ I then picked the following colors to be used in defferent elements on the site:
 *   I chose an initial image as inspiration (Hero image displayed under Colors section), and from there chose other similar images. All these images have the same earthy tones, with a few pops of green. They are minimalistic, and convey the purpose of the website. It was important to use images for every service description section, so as to give visual aid of the service provided. These images were sourced by [Pexels.](https://www.pexels.com/)
 *   I used instantly recognisable [Font Awesome](https://fontawesome.com/) icons for the social media links in the footer. These immediately stand out to the user. I styled them with the colors of the website and fixed them to the bottom of the screen.
 
+* * * 
+
 FEATURES:
 ---------
 
@@ -229,9 +237,13 @@ FEATURES:
 
 *   Social Media links: Facebook, Instagram, Linekdin
 
+* * * 
+
 ### Future features
 
 *   A Page containing a complimentary pre-recorded taster sessions: Yoga, Pilates, Meditation, Hiit, and a recipe.
+
+* * * 
 
 ## LANGUAGES:
 
@@ -239,6 +251,8 @@ FEATURES:
 
 *   HTML5
 *   CSS
+
+* * * 
 
 ## OTHER TECHNOLOGIES, FRAMEWORKS & LIBRARIES:
 
@@ -255,6 +269,8 @@ FEATURES:
 *   [Code beautify](https://codebeautify.org/html-to-markdown)
 *   [Compress Jpeg](https://compressjpeg.com/)
 
+* * * 
+
 ## TESTING, BUGS & FIXES:
 
 
@@ -262,11 +278,15 @@ FEATURES:
 
 For testing I used the following sources:
 
+* * * 
+
 ### Tests
 
 * * *
 
 #### [HTML Validator](https://validator.w3.org/)
+
+* * * 
 
 ##### Home Page - index.html
 
@@ -275,6 +295,8 @@ For testing I used the following sources:
 *   Homepage came up with no errors.
 
 ##### Our Services - ourservices.html
+
+* * * 
 
 <img src="assets/images/ourservices-val.png" width="600px">
 
@@ -314,8 +336,11 @@ And finally...
 
 <img src="assets/images/css-val2.png" width="600px">
 
+* * * 
 
 #### Manual testing 
+
+* * * 
 
 * Social media links in footer linking to external sites work, and open the site in a new tab.
 * Links to other pages in navigation bar work in all pages, and link to the correct page.
@@ -339,7 +364,7 @@ Responsive design:
 <img src="assets/images/mobile-homepage2.png" width="200px">
 <img src="assets/images/mobile-homepage1.png" width="180px">
 
-
+* * * 
 
 ##### Tablet Display
 * The tablet displays nicely on all pages. 
@@ -349,6 +374,8 @@ Responsive design:
 
 <img src="assets/images/tablet-screen.png" width="400px">
 
+* * * 
+
 ##### Laptop Display
 * The laptop also displays nicely on all pages. 
 * Nav bar is of a an appopriate size.
@@ -356,6 +383,8 @@ Responsive design:
 * Our services section: Images are now to the left of the text. It is more visually pleasing for this display width.
 
 <img src="assets/images/laptop-screen.png" width="600px">
+
+* * * 
 
 ##### Larger Screens Display
 * The large screens also displays nicely on all pages. 
@@ -365,13 +394,14 @@ Responsive design:
 
 <img src="assets/images/large-screen.png" width="600px">
 
+* * * 
 
 ##### My large sccreen DISPLAY (19020 X 1200px):
 The Homepage image is cropped, and begins from her nose down (which was not initially intentional). I actually quite like it like this, so decided to keep it. I like the way it focuses on her smale, and her hands.
 
 <img src="assets/images/my-large-screen.png" width="600px">
 
-
+* * * 
 
 #### Lighthouse testing
 * Initially, with the lighhouse testing the performance read 57%. I asked the tutors at code Instutute, and they mentioned that reducing my Hero Image would help. 
@@ -384,10 +414,12 @@ The Homepage image is cropped, and begins from her nose down (which was not init
 
 <img src="assets/images/lighthouse2.png" width="300px">
 
-
+* * * 
 
 
 #### Testing User Stories
+
+* * * 
 
 1.  Easy to navigate the site.
     *   Nav bar is always at the top of the menu, and easily directs you to different pages.
@@ -450,7 +482,7 @@ The Homepage image is cropped, and begins from her nose down (which was not init
     <img src="assets/images/inclusive1.png" width="200px">
     <img src="assets/images/inclusive2.png" width="200px">
 
-    
+
     * Use of language is inviting
 
 ## DEPLOYMENT:
@@ -479,12 +511,15 @@ You can Fork the Repository. This makes a copy of the original repository on our
 2. Click on the "Fork" button which is located in the top right corner.
 3. You will now have a copy of the original repository in your GitHub account.
 
+* * * 
+
 ### Cloning the Project.
 * * *
 1. Log into GitHub and locate the GitHub repository you want.
 2. Under the repository name, click "Code" button which will come up with a dropdown menu.
 3. Where it says Clone, copy the link below.
 
+* * * 
 
 CREDITS:
 --------
@@ -500,10 +535,14 @@ CREDITS:
     * [Stretch in the city website: Benefits of nutrition](https://stretchingthecity.com/corporate-wellbeing/nutrition/) 
     * [Medical News Website: Benefits of healthy nutrition](https://www.medicalnewstoday.com/articles/322268)
 *  I used part of the Love Running Project Code as a template for the Navigation bar: structured in unordered lists and having the logo also be an anchor element.  
+
+<img src="assets/images/love-running-nav-code.png" width="500px">
 ![](assets/images/love-running-nav-code.png) 
+
 * I also used the fixed CSS styling element for the nav bar and social media links (as done in the love running).
 * Was inspired by the Love Running project idea of using a background image and a background color for the form.
-![](assets/images/love-running-form.png) 
+
+<img src="assets/images/love-running-form.png" width="500px">
 
 * Images & Icons:
     * [Font Awesome](https://fontawesome.com/) for social media anchor links.

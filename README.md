@@ -11,8 +11,6 @@ ABOUT THE WEBSITE:
 [Link to deployed site](https://stephaniecrocker91.github.io/simplywellness/)
 
 
-[GitHub Repository](https://github.com/stephaniecrocker91/simplywellness/)
-
 
 _Simply wellness_ is a website designed specifically to advertise _Workspace Wellness_. It advertises an array of services (classes and workshop packages) available for offices both virtual and in person. Services include: Mindfulness & Meditation, Yoga and Pilates. The website describes the benefits of focusing on workplace wellbeing and mental health in the workplace.
 
@@ -26,7 +24,7 @@ _Simply wellness_ is a website designed specifically to advertise _Workspace Wel
 
 * * *
 
-It's target is to convince businesses to purchase these bespoke packages with the hopes of boosting employees productivity, moral, mental health and overall sense of wellbeing in the workplace.
+It's target is to convince businesses to purchase these bespoke packages with the hopes of boosting employees productivity, morale, mental health and overall sense of wellbeing in the workplace.
 
 *   Business owners.
 *   Human resource managers.
@@ -108,7 +106,7 @@ STRUCTURE:
 
 The homepage consists of:
 
-*   Image that clearly displays the theme of the webiste, and conveys a sense of peace, harmony and balance. The colors are cool and calming, and match the color palette of the site.
+*   Image that clearly displays the theme of the website, and conveys a sense of peace, harmony and balance. The colors are cool and calming, and match the color palette of the site.
 *   A header just below the navigation bar that clearly explains the purpose of the site: Workplace Wellbeing & Mental health. It's colors contrast the header.
 *   A further sub-header within a pink box that goes into further detail: the aim of the services provided, and how they are delivered. It is easily readable: font is clear and the background-color is contrasting to the background image of the section.
 *   Home page is minimalistic, clear and concise.
@@ -300,7 +298,7 @@ For testing I used the following sources:
 
 <img src="assets/images/ourservices-val.png" width="600px">
 
-1.  For this error, I removed the div, and created an unordered list containing the services names anc ontaining the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. I re-tested and there was still an error: the h3 wrapped around the ul. Remved this and then had to restyle CSS again.
+1.  For this error, I removed the div, and created an unordered list containing the services names and the hyperlinks in them. I then styled with CSS. List-style none, text-align center, and margin top 1rem. I re-tested and there was still an error: the h3 wrapped around the ul. Remved this and then had to restyle CSS again.
 2.  Same as above.
 3.  Debugged by solving first bug.
 4.  Removed illegal character path (space) in file name. Not it is man-meditating-yellowhair.jpg
@@ -409,10 +407,15 @@ The Homepage image is cropped, and begins from her nose down (which was not init
 
 <img src="assets/images/lighthouse1.png" width="300px">
 
-* Now: 98% for Peformance
-* 100% Best practices
+* Now:
+    * Mobile: 86% Performance, 100% Best Practices
+    
+<img src="assets/images/lighthouse2.png" width="400px">
 
-<img src="assets/images/lighthouse2.png" width="300px">
+
+    * Display: 99% for Performance, 100% Best Practices
+
+<img src="assets/images/lighthouse3.png" width="400px">
 
 * * * 
 
